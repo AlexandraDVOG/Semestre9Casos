@@ -1,80 +1,80 @@
-ID_Venta,Fecha,Producto,Categoria_producto,Precio,Cantidad_vendida,Region,
-1,15/01/2024,"Televisor 42""",Electrónica,400,2,Norteamérica,
-2,16/01/2024,Smartphone,Electrónica,700,5,Europa,
-3,17/01/2024,Refrigerador,Electrodoméstico,1200,1,Sudamérica,
-4,18/01/2024,Laptop,Electrónica,950,3,Asia,
-5,19/01/2024,Lavadora,Electrodoméstico,NaN,1,Norteamérica,
-6,20/01/2024,"Televisor 55""",Electrónica,650,4,Europa,
-7,21/01/2024,Aspiradora,Electrodoméstico,150,10,Sudamérica,
-8,22/01/2024,Smartphone,Electrónica,650,6,Norteamérica,
-9,23/01/2024,Laptop,Electrónica,1000,2,Asia,
-10,24/01/2024,Microondas,Electrodoméstico,120,8,Europa,
-11,25/01/2024,"Televisor 42""",Electrónica,-450,2,Sudamérica,
-12,26/01/2024,Lavadora,Electrodoméstico,NaN,3,Asia,
-13,27/01/2024,Smartphone,Electrónica,750,7,Norteamérica,
-14,28/01/2024,Laptop,Electrónica,850,1,Europa,
-15,29/01/2024,Refrigerador,Electrodoméstico,1100,1,Sudamérica,
-16,30/01/2024,Microondas,Electrodoméstico,100,9,Asia,
-17,31/01/2024,"Televisor 32""",Electrónica,300,5,Norteamérica,
-18,01/02/2024,Tablet,Electrónica,400,4,Europa,
-19,02/02/2024,Lavadora,Electrodoméstico,750,2,Asia,
-20,03/02/2024,Refrigerador,Electrodoméstico,NaN,1,Norteamérica,
-21,04/02/2024,Smartphone,Electrónica,680,6,Sudamérica,
-22,05/02/2024,Laptop,Electrónica,1050,2,Europa,
-23,06/02/2024,Aspiradora,Electrodoméstico,160,8,Norteamérica,
-24,07/02/2024,"Televisor 55""",Electrónica,700,3,Asia,
-25,08/02/2024,Tablet,Electrónica,420,5,Sudamérica,
-26,09/02/2024,Smartphone,Electrónica,780,7,Europa,
-27,10/02/2024,Microondas,Electrodoméstico,NaN,9,Asia,
-28,11/02/2024,"Televisor 42""",Electrónica,500,3,Norteamérica,
-29,12/02/2024,Refrigerador,Electrodoméstico,1250,1,Europa,
-30,13/02/2024,Laptop,Electrónica,970,4,Asia,
-31,14/02/2024,Smartphone,Electrónica,690,8,Sudamérica,
-32,15/02/2024,"Televisor 32""",Electrónica,310,6,Europa,
-33,16/02/2024,Aspiradora,Electrodoméstico,155,7,Norteamérica,
-34,17/02/2024,Lavadora,Electrodoméstico,810,2,Asia,
-35,18/02/2024,Microondas,Electrodoméstico,NaN,10,Sudamérica,
-36,04/02/2024,Smartphone,Electrónica,680,6,Sudamérica,
-37,05/02/2024,Laptop,Electrónica,1050,2,Europa,,,
-38,06/02/2024,Aspiradora,Electrodoméstico,160,8,Norteamérica,
-39,07/02/2024,"Televisor 55""",Electrónica,700,3,Asia,
-40,08/02/2024,Tablet,Electrónica,420,5,Sudamérica,
-41,09/02/2024,Smartphone,Electrónica,780,7,Europa,
-42,10/02/2024,Microondas,Electrodoméstico,NaN,9,Asia,
-43,11/02/2024,"Televisor 42""",Electrónica,500,3,Norteamérica,
-44,09/02/2024,Smartphone,Electrónica,780,7,Europa,
-45,10/02/2024,Microondas,Electrodoméstico,NaN,9,Asia,
-46,11/02/2024,"Televisor 42""",Electrónica,500,3,Norteamérica,
-47,12/02/2024,Refrigerador,Electrodoméstico,1250,1,Europa,
-48,13/02/2024,Laptop,Electrónica,970,4,Asia,
-49,14/02/2024,Smartphone,Electrónica,690,8,Sudamérica,
-50,15/02/2024,"Televisor 32""",Electrónica,310,6,Europa,
-51,16/02/2024,Aspiradora,Electrodoméstico,155,7,Norteamérica,
-52,17/02/2024,Lavadora,Electrodoméstico,810,2,Asia,
-53,15/03/2024,"Televisor 42""",Electrónica,400,2,Norteamérica,
-54,16/03/2024,Smartphone,Electrónica,700,5,Europa,
-55,17/03/2024,Refrigerador,Electrodoméstico,1200,1,Sudamérica,
-56,18/03/2024,Laptop,Electrónica,950,3,Asia,
-57,19/03/2024,Lavadora,Electrodoméstico,NaN,1,Norteamérica,
-58,20/03/2024,"Televisor 55""",Electrónica,650,4,Europa,
-59,21/03/2024,Aspiradora,Electrodoméstico,150,10,Sudamérica,
-60,22/03/2024,Smartphone,Electrónica,650,6,Norteamérica,
-61,23/03/2024,Laptop,Electrónica,1000,2,Asia,
-62,24/03/2024,Microondas,Electrodoméstico,120,8,Europa,
-63,25/03/2024,"Televisor 42""",Electrónica,-450,2,Sudamérica,
-64,26/03/2024,Lavadora,Electrodoméstico,NaN,3,Asia,
-65,27/03/2024,Smartphone,Electrónica,750,7,Norteamérica,
-66,28/03/2024,Microondas,Electrodoméstico,NaN,9,Asia,
-67,29/03/2024,"Televisor 42""",Electrónica,500,3,Norteamérica,
-68,30/03/2024,Refrigerador,Electrodoméstico,1250,1,Europa,
-69,31/03/2024,Laptop,Electrónica,970,4,Asia,
-70,01/04/2024,Smartphone,Electrónica,690,8,Sudamérica,
-71,02/04/2024,"Televisor 32""",Electrónica,310,6,Europa,
-72,03/04/2024,Aspiradora,Electrodoméstico,155,7,Norteamérica,
-73,04/04/2024,Lavadora,Electrodoméstico,810,2,Asia,
-74,05/04/2024,"Televisor 42""",Electrónica,400,2,Norteamérica,
-75,06/04/2024,Smartphone,Electrónica,700,5,Europa,
-76,07/04/2024,Refrigerador,Electrodoméstico,1200,1,Sudamérica,
-77,08/04/2024,Laptop,Electrónica,950,3,Asia,
-78,09/04/2024,Lavadora,Electrodoméstico,NaN,1,Norteamérica,
-79,10/04/2024,Lavadora,Electrodoméstico,NaN,3,Asia,
+ID_Venta,Fecha,Producto,Categoria_producto,Precio,Cantidad_vendida,Region
+1,15/01/2024,"Televisor 42""",Electrónica,400,2,Norteamérica
+2,16/01/2024,Smartphone,Electrónica,700,5,Europa
+3,17/01/2024,Refrigerador,Electrodoméstico,1200,1,Sudamérica
+4,18/01/2024,Laptop,Electrónica,950,3,Asia
+5,19/01/2024,Lavadora,Electrodoméstico,NaN,1,Norteamérica
+6,20/01/2024,"Televisor 55""",Electrónica,650,4,Europa
+7,21/01/2024,Aspiradora,Electrodoméstico,150,10,Sudamérica
+8,22/01/2024,Smartphone,Electrónica,650,6,Norteamérica
+9,23/01/2024,Laptop,Electrónica,1000,2,Asia
+10,24/01/2024,Microondas,Electrodoméstico,120,8,Europa
+11,25/01/2024,"Televisor 42""",Electrónica,-450,2,Sudamérica
+12,26/01/2024,Lavadora,Electrodoméstico,NaN,3,Asia
+13,27/01/2024,Smartphone,Electrónica,750,7,Norteamérica
+14,28/01/2024,Laptop,Electrónica,850,1,Europa
+15,29/01/2024,Refrigerador,Electrodoméstico,1100,1,Sudamérica
+16,30/01/2024,Microondas,Electrodoméstico,100,9,Asia
+17,31/01/2024,"Televisor 32""",Electrónica,300,5,Norteamérica
+18,01/02/2024,Tablet,Electrónica,400,4,Europa
+19,02/02/2024,Lavadora,Electrodoméstico,750,2,Asia
+20,03/02/2024,Refrigerador,Electrodoméstico,NaN,1,Norteamérica
+21,04/02/2024,Smartphone,Electrónica,680,6,Sudamérica
+22,05/02/2024,Laptop,Electrónica,1050,2,Europa
+23,06/02/2024,Aspiradora,Electrodoméstico,160,8,Norteamérica
+24,07/02/2024,"Televisor 55""",Electrónica,700,3,Asia
+25,08/02/2024,Tablet,Electrónica,420,5,Sudamérica
+26,09/02/2024,Smartphone,Electrónica,780,7,Europa
+27,10/02/2024,Microondas,Electrodoméstico,NaN,9,Asia
+28,11/02/2024,"Televisor 42""",Electrónica,500,3,Norteamérica
+29,12/02/2024,Refrigerador,Electrodoméstico,1250,1,Europa
+30,13/02/2024,Laptop,Electrónica,970,4,Asia
+31,14/02/2024,Smartphone,Electrónica,690,8,Sudamérica
+32,15/02/2024,"Televisor 32""",Electrónica,310,6,Europa
+33,16/02/2024,Aspiradora,Electrodoméstico,155,7,Norteamérica
+34,17/02/2024,Lavadora,Electrodoméstico,810,2,Asia
+35,18/02/2024,Microondas,Electrodoméstico,NaN,10,Sudamérica
+36,04/02/2024,Smartphone,Electrónica,680,6,Sudamérica
+37,05/02/2024,Laptop,Electrónica,1050,2,Europa
+38,06/02/2024,Aspiradora,Electrodoméstico,160,8,Norteamérica
+39,07/02/2024,"Televisor 55""",Electrónica,700,3,Asia
+40,08/02/2024,Tablet,Electrónica,420,5,Sudamérica
+41,09/02/2024,Smartphone,Electrónica,780,7,Europa
+42,10/02/2024,Microondas,Electrodoméstico,NaN,9,Asia
+43,11/02/2024,"Televisor 42""",Electrónica,500,3,Norteamérica
+44,09/02/2024,Smartphone,Electrónica,780,7,Europa
+45,10/02/2024,Microondas,Electrodoméstico,NaN,9,Asia
+46,11/02/2024,"Televisor 42""",Electrónica,500,3,Norteamérica
+47,12/02/2024,Refrigerador,Electrodoméstico,1250,1,Europa
+48,13/02/2024,Laptop,Electrónica,970,4,Asia
+49,14/02/2024,Smartphone,Electrónica,690,8,Sudamérica
+50,15/02/2024,"Televisor 32""",Electrónica,310,6,Europa
+51,16/02/2024,Aspiradora,Electrodoméstico,155,7,Norteamérica
+52,17/02/2024,Lavadora,Electrodoméstico,810,2,Asia
+53,15/03/2024,"Televisor 42""",Electrónica,400,2,Norteamérica
+54,16/03/2024,Smartphone,Electrónica,700,5,Europa
+55,17/03/2024,Refrigerador,Electrodoméstico,1200,1,Sudamérica
+56,18/03/2024,Laptop,Electrónica,950,3,Asia
+57,19/03/2024,Lavadora,Electrodoméstico,NaN,1,Norteamérica
+58,20/03/2024,"Televisor 55""",Electrónica,650,4,Europa
+59,21/03/2024,Aspiradora,Electrodoméstico,150,10,Sudamérica
+60,22/03/2024,Smartphone,Electrónica,650,6,Norteamérica
+61,23/03/2024,Laptop,Electrónica,1000,2,Asia
+62,24/03/2024,Microondas,Electrodoméstico,120,8,Europa
+63,25/03/2024,"Televisor 42""",Electrónica,-450,2,Sudamérica
+64,26/03/2024,Lavadora,Electrodoméstico,NaN,3,Asia
+65,27/03/2024,Smartphone,Electrónica,750,7,Norteamérica
+66,28/03/2024,Microondas,Electrodoméstico,NaN,9,Asia
+67,29/03/2024,"Televisor 42""",Electrónica,500,3,Norteamérica
+68,30/03/2024,Refrigerador,Electrodoméstico,1250,1,Europa
+69,31/03/2024,Laptop,Electrónica,970,4,Asia
+70,01/04/2024,Smartphone,Electrónica,690,8,Sudamérica
+71,02/04/2024,"Televisor 32""",Electrónica,310,6,Europa
+72,03/04/2024,Aspiradora,Electrodoméstico,155,7,Norteamérica
+73,04/04/2024,Lavadora,Electrodoméstico,810,2,Asia
+74,05/04/2024,"Televisor 42""",Electrónica,400,2,Norteamérica
+75,06/04/2024,Smartphone,Electrónica,700,5,Europa
+76,07/04/2024,Refrigerador,Electrodoméstico,1200,1,Sudamérica
+77,08/04/2024,Laptop,Electrónica,950,3,Asia
+78,09/04/2024,Lavadora,Electrodoméstico,NaN,1,Norteamérica
+79,10/04/2024,Lavadora,Electrodoméstico,NaN,3,Asia
