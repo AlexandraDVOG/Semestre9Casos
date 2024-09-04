@@ -1,17 +1,17 @@
-ID_Venta,Fecha,Producto,Categoria,Precio,Cantidad_vendida,Region
-1,15/01/2024,"Televisor 42""",Electr髇ica,400,2,Norteam閞ica
-2,16/01/2024,Smartphone,Electr髇ica,700,5,Europa
-3,17/01/2024,Refrigerador,Electrodom閟tico,1200,1,Sudam閞ica
-4,18/01/2024,Laptop,Electr髇ica,950,3,Asia
-5,19/01/2024,Lavadora,Electrodom閟tico,800,1,Norteam閞ica
-6,20/01/2024,"Televisor 55""",Electr髇ica,650,4,Europa
-7,21/01/2024,Aspiradora,Electrodom閟tico,150,10,Sudam閞ica
-8,22/01/2024,Smartphone,Electr髇ica,650,6,Norteam閞ica
-9,23/01/2024,Laptop,Electr髇ica,1000,2,Asia
-10,24/01/2024,Microondas,Electrodom閟tico,120,8,Europa
-11,25/01/2024,"Televisor 42""",Electr髇ica,-450,2,Sudam閞ica
-12,26/01/2024,Lavadora,Electrodom閟tico,NaN,3,Asia
-13,27/01/2024,Smartphone,Electr髇ica,750,7,Norteam閞ica
-14,28/01/2024,Laptop,Electr髇ica,850,1,Europa
-15,29/01/2024,Refrigerador,Electrodom閟tico,1100,1,Sudam閞ica
-16,30/01/2024,Microondas,Electrodom閟tico,100,9,Asia
+ID_Venta,Fecha,Producto,Categoria_productos,Precio,Cantidad_vendida,Region
+1,15/01/2024,"Televisor 42""",Electr贸nica,400,2,Norteam茅rica
+2,16/01/2024,Smartphone,Electr贸nica,700,5,Europa
+3,17/01/2024,Refrigerador,Electrodom茅stico,1200,1,Sudam茅rica
+4,18/01/2024,Laptop,Electr贸nica,950,3,Asia
+5,19/01/2024,Lavadora,Electrodom茅stico,800,1,Norteam茅rica
+6,20/01/2024,"Televisor 55""",Electr贸nica,650,4,Europa
+7,21/01/2024,Aspiradora,Electrodom茅stico,150,10,Sudam茅rica
+8,22/01/2024,Smartphone,Electr贸nica,650,6,Norteam茅rica
+9,23/01/2024,Laptop,Electr贸nica,1000,2,Asia
+10,24/01/2024,Microondas,Electrodom茅stico,120,8,Europa
+11,25/01/2024,"Televisor 42""",Electr贸nica,-450,2,Sudam茅rica
+12,26/01/2024,Lavadora,Electrodom茅stico,NaN,3,Asia
+13,27/01/2024,Smartphone,Electr贸nica,750,7,Norteam茅rica
+14,28/01/2024,Laptop,Electr贸nica,850,1,Europa
+15,29/01/2024,Refrigerador,Electrodom茅stico,1100,1,Sudam茅rica
+16,30/01/2024,Microondas,Electrodom茅stico,100,9,Asia
