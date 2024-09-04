@@ -1,0 +1,17 @@
+ID_Venta,Fecha,Producto,Categoria_producto,Precio,Cantidad_vendida,Region
+1,15/01/2024,"Televisor 42""",Electrónica,400,2,Norteamérica
+2,16/01/2024,Smartphone,Electrónica,700,5,Europa
+3,17/01/2024,Refrigerador,Electrodoméstico,1200,1,Sudamérica
+4,18/01/2024,Laptop,Electrónica,950,3,Asia
+5,19/01/2024,Lavadora,Electrodoméstico,800,1,Norteamérica
+6,20/01/2024,"Televisor 55""",Electrónica,650,4,Europa
+7,21/01/2024,Aspiradora,Electrodoméstico,150,10,Sudamérica
+8,22/01/2024,Smartphone,Electrónica,650,6,Norteamérica
+9,23/01/2024,Laptop,Electrónica,1000,2,Asia
+10,24/01/2024,Microondas,Electrodoméstico,120,8,Europa
+11,25/01/2024,"Televisor 42""",Electrónica,-450,2,Sudamérica
+12,26/01/2024,Lavadora,Electrodoméstico,NaN,3,Asia
+13,27/01/2024,Smartphone,Electrónica,750,7,Norteamérica
+14,28/01/2024,Laptop,Electrónica,850,1,Europa
+15,29/01/2024,Refrigerador,Electrodoméstico,1100,1,Sudamérica
+16,30/01/2024,Microondas,Electrodoméstico,100,9,Asia
