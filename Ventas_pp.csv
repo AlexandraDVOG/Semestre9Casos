@@ -1,6 +1,6 @@
 ID_Venta,Fecha,Producto,Categoria_producto,Precio,Cantidad_vendida,Region,
 1,15/01/2024,"Televisor 42""",Electrónica,400,2,Norteamérica,
-2,16/01/2024,Smartphone,Electrónica,700,5,Europa,,,
+2,16/01/2024,Smartphone,Electrónica,700,5,Europa,
 3,17/01/2024,Refrigerador,Electrodoméstico,1200,1,Sudamérica,
 4,18/01/2024,Laptop,Electrónica,950,3,Asia,
 5,19/01/2024,Lavadora,Electrodoméstico,NaN,1,Norteamérica,
