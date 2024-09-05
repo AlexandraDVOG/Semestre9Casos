@@ -1,0 +1,2101 @@
+ID_Venta,Fecha,Producto,Categoria_producto,Precio,Cantidad_vendida,Region,Descuento,Metodo_Pago
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,NaN,11.24,Efectivo
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,28.52,Efectivo
+3,17/01/2024,Refrigerador,NaN,-1200,1,Sudamerica,21.96,Cheque
+4,18/01/2024,NaN,Electronica,950,3,Asias,17.96,Cheque
+5,19/01/2024,Lavadora,NaN,10000,1,Norteamerica,4.68,Cheque
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,4.68,Efectivo
+7,21/01/2024,Aspiradora,Electrodomestico,5000,10,Sudamerica,1.74,Transferencia Bancaria
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,25.99,PayPal
+9,23/01/2024,NaN,Electronica,1000,2,Sudamerica,18.03,Transferencia Bancaria
+10,24/01/2024,Microondass,NaN,2000,8,Europa,21.24,Transferencia Bancaria
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,0.62,Efectivo
+12,26/01/2024,LAVADORA,Electrodomestico,,3,Asia,29.1,Transferencia Bancaria
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,24.97,Tarjeta de Crédito
+14,28/01/2024,LAPTOP,Electronica,850,1,NaN,6.37,Cheque
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,5.45,Tarjeta de Crédito
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,5.5,PayPal
+17,31/01/2024,"Televisor 32""",Electronica,3500,5,Norteamerica,9.13,Cheque
+18,01/02/2024,Tablet,Electronica,,4,Europa,15.74,Transferencia Bancaria
+19,02/02/2024,LavadoraS,Electrodomestico,750,2,Asia,12.96,PayPal
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,8.74,Cheque
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,18.36,Transferencia Bancaria
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,4.18,Tarjeta de Crédito
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,8.76,Cheque
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,10.99,Transferencia Bancaria
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,13.68,Tarjeta de Crédito
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,23.56,PayPal
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,5.99,PayPal
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,15.43,Desconocido
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,17.77,PayPal
+30,13/02/2024,Laptop,Electronica,970,4,Asia,1.39,Efectivo
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,18.23,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,5.12,Cheque
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,1.95,Efectivo
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,28.47,Transferencia Bancaria
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,28.97,Transferencia Bancaria
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,24.25,PayPal
+37,05/02/2024,NaN,Electronica,1050,2,Europa,,Tarjeta de Crédito
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,2.93,Transferencia Bancaria
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,20.53,Tarjeta de Crédito
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,13.2,Cheque
+41,09/02/2024,NaN,Electronica,780,7,Europa,3.66,Tarjeta de Crédito
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,14.86,Cheque
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,1.03,Efectivo
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,27.28,Efectivo
+45,10/02/2024,Microondas,NaN,,9,Asia,7.76,PayPal
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,19.88,Transferencia Bancaria
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,9.35,PayPal
+48,13/02/2024,Laptop,Electronica,970,4,Asia,15.6,Cheque
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,16.4,PayPal
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,5.55,Tarjeta de Crédito
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,29.09,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,23.25,Efectivo
+53,15/03/2024,"Televisor 42""",NaN,-400,2,Norteamerica,28.18,Transferencia Bancaria
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,26.84,Cheque
+55,17/03/2024,Refrigerador,Electrodomestico,12000,1,Sudamerica,17.94,Cheque
+56,18/03/2024,Laptop,Electronica,950,3,NaN,27.66,Tarjeta de Crédito
+57,19/03/2024,Lavadora,Electrodomestico,,1,NaN,2.65,Transferencia Bancaria
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,5.88,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,1.36,Cheque
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,9.76,Cheque
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,11.66,Tarjeta de Crédito
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,,PayPal
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,24.86,Efectivo
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,10.7,Transferencia Bancaria
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,8.43,Cheque
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,16.28,Cheque
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,4.23,Efectivo
+68,30/03/2024,Refrigerador,Electrodomestico,12000,1,Europa,24.07,PayPal
+69,31/03/2024,Laptop,Electronica,970,4,Asia,2.24,Cheque
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,29.61,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,23.17,Tarjeta de Crédito
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,5.96,Desconocido
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,0.17,Transferencia Bancaria
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,24.46,Cheque
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,21.21,Efectivo
+76,07/04/2024,Refrigerador,Electrodomestico,12000,1,Sudamerica,21.87,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,23.14,Transferencia Bancaria
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,2.22,Efectivo
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,10.75,Efectivo
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,3.48,Transferencia Bancaria
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,25.89,Tarjeta de Crédito
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,18.7,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,9.93,PayPal
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,1.91,Cheque
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,9.33,Transferencia Bancaria
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,9.76,Transferencia Bancaria
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,21.89,Transferencia Bancaria
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,19.13,Tarjeta de Crédito
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,26.62,Cheque
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,14.17,PayPal
+12,26/01/2024,Lavadora,NaN,,3,Asia,,Efectivo
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,21.4,Efectivo
+14,28/01/2024,Laptop,Electronica,850,1,Europa,22.82,Transferencia Bancaria
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,16.84,Cheque
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,23.13,Tarjeta de Crédito
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,14.81,Cheque
+18,01/02/2024,Tablet,Electronica,,4,Europa,15.68,Cheque
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,12.83,Tarjeta de Crédito
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,0.76,Transferencia Bancaria
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,3.24,Cheque
+22,05/02/2024,Laptop,NaN,1050,2,Europa,0.94,Efectivo
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,19.09,Tarjeta de Crédito
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,9.43,PayPal
+25,08/02/2024,Tablet,Electronica,1000,5,Sudamerica,15.26,Transferencia Bancaria
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,27.23,Tarjeta de Crédito
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,7.48,PayPal
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,12.31,PayPal
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,22.67,Cheque
+30,13/02/2024,Laptop,NaN,970,4,Asia,6.86,Cheque
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,2.31,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,8.69,Tarjeta de Crédito
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,4.84,Tarjeta de Crédito
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,27.89,Transferencia Bancaria
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,24.24,Cheque
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,19,PayPal
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,26.14,Efectivo
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,24.11,Transferencia Bancaria
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,5.6,Tarjeta de Crédito
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,26.78,Transferencia Bancaria
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,16.18,Transferencia Bancaria
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,24.22,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,26.88,Transferencia Bancaria
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,9.54,Efectivo
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,3.3,Cheque
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,6.84,PayPal
+47,12/02/2024,Refrigerador,Electrodomestico,12500,1,Europa,12.81,Transferencia Bancaria
+48,13/02/2024,Laptop,Electronica,970,4,Asia,24.54,Transferencia Bancaria
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,25.82,Transferencia Bancaria
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,0.21,Cheque
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,15.32,Tarjeta de Crédito
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,12.52,Tarjeta de Crédito
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,6.66,Efectivo
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,,Tarjeta de Crédito
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,10.13,Transferencia Bancaria
+56,18/03/2024,Laptop,Electronica,950,3,Asia,28.29,Transferencia Bancaria
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,9.7,Transferencia Bancaria
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,15.56,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,21.09,Transferencia Bancaria
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,10.91,Tarjeta de Crédito
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,29.15,Cheque
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,28.87,Cheque
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,7.55,PayPal
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,14.92,Tarjeta de Crédito
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,9.03,Transferencia Bancaria
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,8.55,Cheque
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,1.11,Tarjeta de Crédito
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,18.29,Cheque
+69,31/03/2024,Laptop,Electronica,970,4,Asia,15.08,Transferencia Bancaria
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,1.54,Cheque
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,8.36,PayPal
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,27.25,PayPal
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,7.19,Cheque
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,4.35,Tarjeta de Crédito
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,14.68,Tarjeta de Crédito
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,29.57,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,7.26,Cheque
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,20.16,Tarjeta de Crédito
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,22.85,Transferencia Bancaria
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,7.13,PayPal
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,21.85,Transferencia Bancaria
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,11.03,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,18.97,Transferencia Bancaria
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,19.01,Tarjeta de Crédito
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,16.07,Cheque
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,2.71,Transferencia Bancaria
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,25.06,Cheque
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,9.62,Cheque
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,5.6,Desconocido
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,1.22,Tarjeta de Crédito
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,17.73,PayPal
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,20.33,Tarjeta de Crédito
+14,28/01/2024,Laptop,Electronica,850,1,Europa,0.5,PayPal
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,15.36,Tarjeta de Crédito
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,6.79,Desconocido
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,19.36,Transferencia Bancaria
+18,01/02/2024,Tablet,Electronica,,4,Europa,5.23,Transferencia Bancaria
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,20.73,Efectivo
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,11.6,PayPal
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,28.1,PayPal
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,4.13,PayPal
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,10.23,Cheque
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,3.4,PayPal
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,27.74,Transferencia Bancaria
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,26.32,Cheque
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,7.74,Desconocido
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,19.8,PayPal
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,24.52,PayPal
+30,13/02/2024,Laptop,Electronica,970,4,Asia,16.66,Tarjeta de Crédito
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,15.89,PayPal
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,7.26,Tarjeta de Crédito
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,2.79,Cheque
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,26.92,Transferencia Bancaria
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,27.01,Tarjeta de Crédito
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,18.99,Efectivo
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,10.17,Tarjeta de Crédito
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,10.48,PayPal
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,21.78,Cheque
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,26.91,Cheque
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,26.61,Tarjeta de Crédito
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,23.4,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,19.26,Efectivo
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,,Cheque
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,4.85,PayPal
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,26.96,PayPal
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,18.19,Transferencia Bancaria
+48,13/02/2024,Laptop,Electronica,970,4,Asia,0.28,Cheque
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,3.04,Tarjeta de Crédito
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,19.91,PayPal
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,0.15,Transferencia Bancaria
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,4.82,Cheque
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,16.46,Cheque
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,20.76,Cheque
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,19.56,Cheque
+56,18/03/2024,Laptop,Electronica,950,3,Asia,6.73,Cheque
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,21.37,PayPal
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,7.12,Transferencia Bancaria
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,9.76,Cheque
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,22.39,Efectivo
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,19.49,Efectivo
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,25.48,Transferencia Bancaria
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,19.73,Tarjeta de Crédito
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,17.05,Tarjeta de Crédito
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,2.81,Tarjeta de Crédito
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,11.03,Efectivo
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,7.96,Tarjeta de Crédito
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,7.32,PayPal
+69,31/03/2024,Laptop,Electronica,970,4,Asia,29.19,Cheque
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,11.79,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,26.76,Transferencia Bancaria
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,18.93,Transferencia Bancaria
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,23.84,Cheque
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,15.08,Efectivo
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,17.31,Tarjeta de Crédito
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,14.78,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,21.67,PayPal
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,8.42,Tarjeta de Crédito
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,0.73,Transferencia Bancaria
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,19.36,Transferencia Bancaria
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,5.31,PayPal
+4,18/01/2024,Laptop,Electronica,950,3,Asia,28.21,Cheque
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,28.62,Tarjeta de Crédito
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,27.45,PayPal
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,11.1,PayPal
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,0.46,Desconocido
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,27.85,Tarjeta de Crédito
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,12.85,Desconocido
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,29,Cheque
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,28.91,Cheque
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,25.59,Tarjeta de Crédito
+14,28/01/2024,Laptop,Electronica,850,1,Europa,8.83,Efectivo
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,25.53,PayPal
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,9.51,Tarjeta de Crédito
+18,01/02/2024,Tablet,Electronica,,4,Europa,5.08,Efectivo
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,16.7,Transferencia Bancaria
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,28.08,Tarjeta de Crédito
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,20.88,Tarjeta de Crédito
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,17.1,PayPal
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,2.92,Tarjeta de Crédito
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,18.45,Tarjeta de Crédito
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,29.7,Tarjeta de Crédito
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,4.2,PayPal
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,15.55,Transferencia Bancaria
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,26.32,Transferencia Bancaria
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,22.22,Tarjeta de Crédito
+30,13/02/2024,Laptop,Electronica,970,4,Asia,20.91,PayPal
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,21.07,Transferencia Bancaria
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,10.78,Transferencia Bancaria
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,8.81,Transferencia Bancaria
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,24.28,PayPal
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,24.3,PayPal
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,26.01,Tarjeta de Crédito
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,27.4,Cheque
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,15.34,Transferencia Bancaria
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,15.05,Cheque
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,23.95,PayPal
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,19.5,PayPal
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,21.06,PayPal
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,23.87,Cheque
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,26.7,PayPal
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,10.14,Tarjeta de Crédito
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,11.27,PayPal
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,2.82,Efectivo
+48,13/02/2024,Laptop,Electronica,970,4,Asia,17.35,Cheque
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,1.08,Efectivo
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,13.97,PayPal
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,16.28,Tarjeta de Crédito
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,8.6,Transferencia Bancaria
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,17.72,PayPal
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,0.92,Tarjeta de Crédito
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,1.12,Cheque
+56,18/03/2024,Laptop,Electronica,950,3,Asia,24.68,Efectivo
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,10.81,Desconocido
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,3.81,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,15.67,Desconocido
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,23.1,Tarjeta de Crédito
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,6.47,Cheque
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,18.69,Efectivo
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,2.56,PayPal
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,1.55,Transferencia Bancaria
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,15.94,Cheque
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,16.22,Cheque
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,19.12,Tarjeta de Crédito
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,21.78,Tarjeta de Crédito
+69,31/03/2024,Laptop,Electronica,970,4,Asia,29.28,Cheque
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,15.49,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,9.69,Transferencia Bancaria
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,,Tarjeta de Crédito
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,8.12,Efectivo
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,13.17,PayPal
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,2.35,Tarjeta de Crédito
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.76,Efectivo
+77,08/04/2024,Laptop,Electronica,950,3,Asia,28.88,Efectivo
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,,Transferencia Bancaria
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,20.88,Transferencia Bancaria
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,12.27,PayPal
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,5.2,Efectivo
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,4.69,Efectivo
+4,18/01/2024,Laptop,Electronica,950,3,Asia,7.51,Transferencia Bancaria
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,16.48,Tarjeta de Crédito
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,21.44,Tarjeta de Crédito
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,19.81,Cheque
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,8.4,Transferencia Bancaria
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,28.65,Cheque
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,22.14,Transferencia Bancaria
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,16.63,PayPal
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,18.35,Efectivo
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,12.59,PayPal
+14,28/01/2024,Laptop,Electronica,850,1,Europa,7.43,Transferencia Bancaria
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,10.68,Efectivo
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,22.74,Tarjeta de Crédito
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,0.43,Tarjeta de Crédito
+18,01/02/2024,Tablet,Electronica,,4,Europa,3.48,Cheque
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,1.38,Transferencia Bancaria
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,1.22,Transferencia Bancaria
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,25.66,Tarjeta de Crédito
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,21.11,PayPal
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,14.23,Efectivo
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,2.94,PayPal
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,14.75,PayPal
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,14.2,Tarjeta de Crédito
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,5.2,Tarjeta de Crédito
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,13.02,Tarjeta de Crédito
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,11.96,Cheque
+30,13/02/2024,Laptop,Electronica,970,4,Asia,18.48,PayPal
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,19.05,Transferencia Bancaria
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,1.36,Efectivo
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,11.24,Cheque
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,18.78,Transferencia Bancaria
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,15.09,PayPal
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,25.69,Tarjeta de Crédito
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,19.76,PayPal
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,4.89,Efectivo
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,2.12,Cheque
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,19.27,Cheque
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,0.8,Efectivo
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,17.57,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,28.21,Transferencia Bancaria
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,17.26,Cheque
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,11.65,Cheque
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,,Tarjeta de Crédito
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,13.75,Transferencia Bancaria
+48,13/02/2024,Laptop,Electronica,970,4,Asia,16.37,Efectivo
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,28.24,Transferencia Bancaria
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,11.58,Tarjeta de Crédito
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,28.84,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,27.16,Cheque
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,5.87,Tarjeta de Crédito
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,2.08,Efectivo
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,3.02,Cheque
+56,18/03/2024,Laptop,Electronica,950,3,Asia,0.55,PayPal
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,2.83,Cheque
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,20.49,PayPal
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,2.14,Tarjeta de Crédito
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,9.57,Tarjeta de Crédito
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,25.35,Cheque
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,0.7,Transferencia Bancaria
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,24.43,PayPal
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,8.46,Efectivo
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,3.54,Cheque
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,20.9,Efectivo
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,18.87,Cheque
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,26.32,Transferencia Bancaria
+69,31/03/2024,Laptop,Electronica,970,4,Asia,,Transferencia Bancaria
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,24.1,Transferencia Bancaria
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,8.46,Transferencia Bancaria
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,5.32,Tarjeta de Crédito
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,22.52,Tarjeta de Crédito
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,24.21,PayPal
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,29.72,Efectivo
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,12.38,Cheque
+77,08/04/2024,Laptop,Electronica,950,3,Asia,11.16,Cheque
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,23.29,Tarjeta de Crédito
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,,Cheque
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,27.92,Tarjeta de Crédito
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,25.75,PayPal
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,12.87,Efectivo
+4,18/01/2024,Laptop,Electronica,950,3,Asia,22.53,PayPal
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,22.64,Transferencia Bancaria
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,3.09,Transferencia Bancaria
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,27.08,Transferencia Bancaria
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,15.16,PayPal
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,24.79,Cheque
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,9.6,Efectivo
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,26.87,Transferencia Bancaria
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,11.68,Transferencia Bancaria
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,0.33,Transferencia Bancaria
+14,28/01/2024,Laptop,Electronica,850,1,Europa,27.16,Efectivo
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,2.74,Transferencia Bancaria
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,9.58,Efectivo
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,28.5,Transferencia Bancaria
+18,01/02/2024,Tablet,Electronica,,4,Europa,28.52,PayPal
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,17.2,PayPal
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,18.96,Efectivo
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,13.45,PayPal
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,8.8,Efectivo
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,9.86,PayPal
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,20.18,PayPal
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,22.57,Efectivo
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,23.75,Cheque
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,23.69,PayPal
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,2.74,Transferencia Bancaria
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,14.83,Cheque
+30,13/02/2024,Laptop,Electronica,970,4,Asia,1.73,Desconocido
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,16.49,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,13.25,Tarjeta de Crédito
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,26.63,Tarjeta de Crédito
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,10.53,PayPal
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,3.51,PayPal
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,4.29,Transferencia Bancaria
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,22.85,Cheque
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,18.55,Tarjeta de Crédito
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,3.03,PayPal
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,2.52,Cheque
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,21.03,PayPal
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,2.18,PayPal
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,24.66,Tarjeta de Crédito
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,21.19,Tarjeta de Crédito
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,2.44,PayPal
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,2.55,Efectivo
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,29.6,PayPal
+48,13/02/2024,Laptop,Electronica,970,4,Asia,11.23,PayPal
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,11.12,Transferencia Bancaria
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,24.38,Transferencia Bancaria
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,28.42,Transferencia Bancaria
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,29.58,Efectivo
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,22.6,Efectivo
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,11.29,PayPal
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,2.51,Transferencia Bancaria
+56,18/03/2024,Laptop,Electronica,950,3,Asia,23.31,Desconocido
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,16.75,Tarjeta de Crédito
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,12.73,PayPal
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,27.19,Cheque
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,,PayPal
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,14.78,Cheque
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,0.34,Transferencia Bancaria
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,14.06,Cheque
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,1.69,Transferencia Bancaria
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,3.56,Tarjeta de Crédito
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,3.53,Cheque
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,19.48,PayPal
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,22.38,Transferencia Bancaria
+69,31/03/2024,Laptop,Electronica,970,4,Asia,17.5,PayPal
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,28.87,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,11.25,Transferencia Bancaria
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,8.57,Cheque
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,26.06,Transferencia Bancaria
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,6.71,PayPal
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,28.9,Tarjeta de Crédito
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.36,Transferencia Bancaria
+77,08/04/2024,Laptop,Electronica,950,3,Asia,29.1,Cheque
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,1.29,Efectivo
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,26.73,Tarjeta de Crédito
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,15.83,Efectivo
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,29.79,Transferencia Bancaria
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,2.21,PayPal
+4,18/01/2024,Laptop,Electronica,950,3,Asia,16.62,PayPal
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,29.08,Cheque
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,15.69,PayPal
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,18.88,Tarjeta de Crédito
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,20.87,Desconocido
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,13.64,Cheque
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,18.83,Transferencia Bancaria
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,17.53,Transferencia Bancaria
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,27.03,PayPal
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,1.36,Efectivo
+14,28/01/2024,Laptop,Electronica,850,1,Europa,8.43,Transferencia Bancaria
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,28.51,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,26.71,Cheque
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,13.67,PayPal
+18,01/02/2024,Tablet,Electronica,,4,Europa,18.6,Transferencia Bancaria
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,8.32,Cheque
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,5.64,PayPal
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,13.91,Tarjeta de Crédito
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,10.6,Cheque
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,17.51,Tarjeta de Crédito
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,2.33,Efectivo
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,29.23,Cheque
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,29.59,Tarjeta de Crédito
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,20.94,Transferencia Bancaria
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,16.08,Transferencia Bancaria
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,9.29,Efectivo
+30,13/02/2024,Laptop,Electronica,970,4,Asia,24.41,Cheque
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,20.54,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,4.88,Cheque
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,27.33,Efectivo
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,24.68,Cheque
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,28.49,Transferencia Bancaria
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,21.77,Tarjeta de Crédito
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,18.4,Transferencia Bancaria
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,12.55,Transferencia Bancaria
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,27.98,Desconocido
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,25.98,Transferencia Bancaria
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,1.36,Efectivo
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,0.79,Tarjeta de Crédito
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,11.29,Transferencia Bancaria
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,24.32,PayPal
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,29.62,Transferencia Bancaria
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,4.51,Efectivo
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,17.82,Cheque
+48,13/02/2024,Laptop,Electronica,970,4,Asia,11.43,Transferencia Bancaria
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,29.1,Cheque
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,25.26,PayPal
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,25.15,Transferencia Bancaria
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,14.06,Tarjeta de Crédito
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,12.44,Cheque
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,8.2,PayPal
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,1.69,Tarjeta de Crédito
+56,18/03/2024,Laptop,Electronica,950,3,Asia,25.94,Tarjeta de Crédito
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,24.39,Tarjeta de Crédito
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,29.99,Tarjeta de Crédito
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,29.9,Transferencia Bancaria
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,16.66,Transferencia Bancaria
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,23.07,Transferencia Bancaria
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,28.34,PayPal
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,25.49,PayPal
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,7.42,PayPal
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,13.52,Efectivo
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,3.87,PayPal
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,28.62,Transferencia Bancaria
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,18.19,Transferencia Bancaria
+69,31/03/2024,Laptop,Electronica,970,4,Asia,6.86,Efectivo
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,20.15,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,18.54,PayPal
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,10.74,Cheque
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,3.41,Efectivo
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,20.15,Desconocido
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,15.61,Transferencia Bancaria
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,23.17,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,15.6,Transferencia Bancaria
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,25.57,Transferencia Bancaria
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,16.56,Efectivo
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,16.83,Efectivo
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,26.3,Tarjeta de Crédito
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,12.1,Transferencia Bancaria
+4,18/01/2024,Laptop,Electronica,950,3,Asia,4.02,Tarjeta de Crédito
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,0.86,Cheque
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,22.65,Tarjeta de Crédito
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,18.61,PayPal
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,,Tarjeta de Crédito
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,6.39,PayPal
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,4.09,PayPal
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,0.44,PayPal
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,10.52,Cheque
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,17.7,Tarjeta de Crédito
+14,28/01/2024,Laptop,Electronica,850,1,Europa,11.77,Tarjeta de Crédito
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,13.12,Cheque
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,27.12,Transferencia Bancaria
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,10.45,Efectivo
+18,01/02/2024,Tablet,Electronica,,4,Europa,15.42,Tarjeta de Crédito
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,23.51,Efectivo
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,11.9,Cheque
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,18.66,Transferencia Bancaria
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,25.87,Transferencia Bancaria
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,28.49,Transferencia Bancaria
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,,Cheque
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,27.8,PayPal
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,14.76,PayPal
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,7.75,Efectivo
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,13.77,PayPal
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,29.4,PayPal
+30,13/02/2024,Laptop,Electronica,970,4,Asia,14.78,Transferencia Bancaria
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,9.86,Transferencia Bancaria
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,19,Efectivo
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,7.2,Tarjeta de Crédito
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,2.28,Efectivo
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,3.87,Efectivo
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,3.84,Cheque
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,4.56,Cheque
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,4.16,Efectivo
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,19.23,Efectivo
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,5.46,Efectivo
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,10.37,PayPal
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,26.9,Cheque
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,14.22,Efectivo
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,20.03,Transferencia Bancaria
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,5.17,Transferencia Bancaria
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,5.77,PayPal
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,1.23,PayPal
+48,13/02/2024,Laptop,Electronica,970,4,Asia,5.07,Tarjeta de Crédito
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,8.36,Tarjeta de Crédito
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,5.31,Tarjeta de Crédito
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,2.66,PayPal
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,3.62,PayPal
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,13.82,PayPal
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,6.19,Transferencia Bancaria
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,10.93,PayPal
+56,18/03/2024,Laptop,Electronica,950,3,Asia,15.1,Transferencia Bancaria
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,20.71,Tarjeta de Crédito
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,1.18,Tarjeta de Crédito
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,23.98,Tarjeta de Crédito
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,18.84,Efectivo
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,2.45,Efectivo
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,26.21,Cheque
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,27.63,Cheque
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,1.83,Cheque
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,8.31,Efectivo
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,24.19,Efectivo
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,22.45,Cheque
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,5.54,Cheque
+69,31/03/2024,Laptop,Electronica,970,4,Asia,6.28,PayPal
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,11.11,Cheque
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,14.54,PayPal
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,18.55,Transferencia Bancaria
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,11.07,Efectivo
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,13.88,Cheque
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,22.42,Efectivo
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,1.1,Efectivo
+77,08/04/2024,Laptop,Electronica,950,3,Asia,7.57,Efectivo
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,21.4,Transferencia Bancaria
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,26.86,Tarjeta de Crédito
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,15.35,Cheque
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,15.96,Tarjeta de Crédito
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,3.22,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,13.42,Tarjeta de Crédito
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,,Efectivo
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,7.27,PayPal
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,8.08,Efectivo
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,11.32,Efectivo
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,0.6,Tarjeta de Crédito
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,9.66,Efectivo
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,6.34,Tarjeta de Crédito
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,9.82,PayPal
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,3.59,Cheque
+14,28/01/2024,Laptop,Electronica,850,1,Europa,26.72,Tarjeta de Crédito
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,17.81,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,20.37,Cheque
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,23.68,Transferencia Bancaria
+18,01/02/2024,Tablet,Electronica,,4,Europa,14.95,Tarjeta de Crédito
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,2.61,Tarjeta de Crédito
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,16.11,Transferencia Bancaria
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,17.61,Transferencia Bancaria
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,22.36,Tarjeta de Crédito
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,12.95,Transferencia Bancaria
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,3.83,Efectivo
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,8.51,Cheque
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,10.89,Cheque
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,19.38,Cheque
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,17.12,Efectivo
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,10.68,Transferencia Bancaria
+30,13/02/2024,Laptop,Electronica,970,4,Asia,29.6,PayPal
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,18.17,Transferencia Bancaria
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,7.12,Tarjeta de Crédito
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,3.05,Cheque
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,4.59,Transferencia Bancaria
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,,PayPal
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,4.82,Tarjeta de Crédito
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,5.6,Efectivo
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,8.55,Efectivo
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,5.2,PayPal
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,,Tarjeta de Crédito
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,2.41,Cheque
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,15.74,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,12.31,Tarjeta de Crédito
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,29.47,Efectivo
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,3.36,PayPal
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,11.94,PayPal
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,29.08,Transferencia Bancaria
+48,13/02/2024,Laptop,Electronica,970,4,Asia,25.97,PayPal
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,24.51,PayPal
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,7.74,Tarjeta de Crédito
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,5.13,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,20.06,Transferencia Bancaria
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,27.88,Desconocido
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,16.7,Cheque
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,17.15,Tarjeta de Crédito
+56,18/03/2024,Laptop,Electronica,950,3,Asia,8.4,Tarjeta de Crédito
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,23.08,PayPal
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,5.61,Cheque
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,9.71,Transferencia Bancaria
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,12.76,Transferencia Bancaria
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,15.23,Cheque
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,7.27,PayPal
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,3.45,Efectivo
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,18.32,Tarjeta de Crédito
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,8.66,PayPal
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,17.44,Cheque
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,4.63,Tarjeta de Crédito
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,14.43,Transferencia Bancaria
+69,31/03/2024,Laptop,Electronica,970,4,Asia,15.98,Efectivo
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,1.55,Transferencia Bancaria
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,10.1,Cheque
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,4.03,Tarjeta de Crédito
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,1.9,Cheque
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,29.7,Tarjeta de Crédito
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,9.67,PayPal
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,24.3,Efectivo
+77,08/04/2024,Laptop,Electronica,950,3,Asia,7.64,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,20.45,PayPal
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,22.81,Cheque
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,17.87,Efectivo
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,14.15,Tarjeta de Crédito
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,12.36,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,10.47,Transferencia Bancaria
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,,Tarjeta de Crédito
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,24.92,Cheque
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,28.95,PayPal
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,3.73,PayPal
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,21.93,PayPal
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,28.15,Efectivo
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,5.44,Tarjeta de Crédito
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,1.99,Cheque
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,22.23,Efectivo
+14,28/01/2024,Laptop,Electronica,850,1,Europa,17.23,Transferencia Bancaria
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,25.25,Cheque
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,4.19,Cheque
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,23.86,Cheque
+18,01/02/2024,Tablet,Electronica,,4,Europa,6.05,Desconocido
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,4.91,Cheque
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,4.93,Tarjeta de Crédito
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,24.44,Cheque
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,19.96,PayPal
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,15.69,Desconocido
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,10.76,Transferencia Bancaria
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,26.32,Transferencia Bancaria
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,11.77,PayPal
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,24.5,Tarjeta de Crédito
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,13.17,Tarjeta de Crédito
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,11.31,Efectivo
+30,13/02/2024,Laptop,Electronica,970,4,Asia,13.88,PayPal
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,9.04,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,22.43,PayPal
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,15.08,Efectivo
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,6.97,PayPal
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,26.99,Desconocido
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,11.52,Efectivo
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,16.31,Tarjeta de Crédito
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,27.19,Cheque
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,18.73,Efectivo
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,3.51,Transferencia Bancaria
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,28.19,Tarjeta de Crédito
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,18.83,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,10.05,Tarjeta de Crédito
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,4.18,Cheque
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,23.82,Cheque
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,18.6,PayPal
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,16,Transferencia Bancaria
+48,13/02/2024,Laptop,Electronica,970,4,Asia,26.82,Tarjeta de Crédito
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,23.66,Cheque
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,4.55,Efectivo
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,9.35,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,7.45,Efectivo
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,22.32,Tarjeta de Crédito
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,1.01,Cheque
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,,Cheque
+56,18/03/2024,Laptop,Electronica,950,3,Asia,22.87,Tarjeta de Crédito
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,26.3,Cheque
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,10.26,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,24.64,Cheque
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,3.32,Transferencia Bancaria
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,25.39,PayPal
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,3.82,Efectivo
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,11.92,Transferencia Bancaria
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,23.92,Tarjeta de Crédito
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,4.5,Efectivo
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,6.88,PayPal
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,21.67,PayPal
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,21.6,Tarjeta de Crédito
+69,31/03/2024,Laptop,Electronica,970,4,Asia,19.23,Tarjeta de Crédito
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,20.82,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,16.28,Cheque
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,7.55,Tarjeta de Crédito
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,10.37,Cheque
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,5.45,Transferencia Bancaria
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,27.25,PayPal
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,17.5,Cheque
+77,08/04/2024,Laptop,Electronica,950,3,Asia,12.03,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,,Cheque
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,28.42,Transferencia Bancaria
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,4.6,Tarjeta de Crédito
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,17.59,Transferencia Bancaria
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,15.18,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,18.34,Tarjeta de Crédito
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,0.54,PayPal
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,26.16,Transferencia Bancaria
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,27.96,Cheque
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,16.95,Transferencia Bancaria
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,20.9,PayPal
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,27.67,Desconocido
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,21.22,PayPal
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,4.58,Desconocido
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,17.29,Efectivo
+14,28/01/2024,Laptop,Electronica,850,1,Europa,18.2,Cheque
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,12.72,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,22.09,Cheque
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,,Cheque
+18,01/02/2024,Tablet,Electronica,,4,Europa,27.77,Efectivo
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,13.53,Cheque
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,3.4,Efectivo
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,29.55,Tarjeta de Crédito
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,25.17,PayPal
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,3.74,Cheque
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,27.63,Efectivo
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,26.1,Transferencia Bancaria
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,15.57,Cheque
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,17.74,Tarjeta de Crédito
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,11.97,Tarjeta de Crédito
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,1.64,Transferencia Bancaria
+30,13/02/2024,Laptop,Electronica,970,4,Asia,10.06,Efectivo
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,0.14,Efectivo
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,10,Tarjeta de Crédito
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,11.95,Efectivo
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,16.12,Tarjeta de Crédito
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,27.6,Efectivo
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,10.39,Desconocido
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,10.41,PayPal
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,22.13,Transferencia Bancaria
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,13.57,Transferencia Bancaria
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,6.74,PayPal
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,13.57,PayPal
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,4.23,Cheque
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,5.29,Cheque
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,14.95,Transferencia Bancaria
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,12.57,Transferencia Bancaria
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,27.45,Tarjeta de Crédito
+48,13/02/2024,Laptop,Electronica,970,4,Asia,10.87,Tarjeta de Crédito
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,17.42,Cheque
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,18.97,Cheque
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,0.39,Desconocido
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,19.91,Tarjeta de Crédito
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,5.34,Efectivo
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,28.83,Efectivo
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,4.46,Tarjeta de Crédito
+56,18/03/2024,Laptop,Electronica,950,3,Asia,12.44,Efectivo
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,2.56,PayPal
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,29.91,Cheque
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,15.07,Cheque
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,17.86,Tarjeta de Crédito
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,2.01,Desconocido
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,22.5,Tarjeta de Crédito
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,6.3,Efectivo
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,26.94,Transferencia Bancaria
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,6.15,Efectivo
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,5.72,PayPal
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,1.1,Efectivo
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,14.16,PayPal
+69,31/03/2024,Laptop,Electronica,970,4,Asia,16.95,PayPal
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,1.97,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,23.27,Efectivo
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,13.6,PayPal
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,15.73,Transferencia Bancaria
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,13.22,PayPal
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,12.02,Cheque
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,,PayPal
+77,08/04/2024,Laptop,Electronica,950,3,Asia,4.66,Transferencia Bancaria
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,5.46,Cheque
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,25.85,Tarjeta de Crédito
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,28.38,Tarjeta de Crédito
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,11.2,Transferencia Bancaria
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,8.12,PayPal
+4,18/01/2024,Laptop,Electronica,950,3,Asia,19.32,Efectivo
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,12.26,Transferencia Bancaria
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,0.76,Cheque
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,4.68,Cheque
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,21.48,Tarjeta de Crédito
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,19.77,Cheque
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,0.81,Transferencia Bancaria
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,6.66,Cheque
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,6.93,Transferencia Bancaria
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,20.16,Desconocido
+14,28/01/2024,Laptop,Electronica,850,1,Europa,0.59,Tarjeta de Crédito
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,3.12,Cheque
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,24,Transferencia Bancaria
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,5.36,PayPal
+18,01/02/2024,Tablet,Electronica,,4,Europa,19.58,Tarjeta de Crédito
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,7.15,Efectivo
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,2.98,Transferencia Bancaria
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,7.3,Efectivo
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,21.67,Efectivo
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,25.67,Cheque
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,24.91,Cheque
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,11.92,Transferencia Bancaria
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,20.04,PayPal
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,6.15,Transferencia Bancaria
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,8.79,PayPal
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,26.89,Efectivo
+30,13/02/2024,Laptop,Electronica,970,4,Asia,0.39,Tarjeta de Crédito
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,,Transferencia Bancaria
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,6.24,Transferencia Bancaria
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,0.8,PayPal
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,5.44,Efectivo
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,17.49,Efectivo
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,12.64,PayPal
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,,Efectivo
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,24.52,Cheque
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,10.25,Tarjeta de Crédito
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,7.78,Transferencia Bancaria
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,11.39,Tarjeta de Crédito
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,17.71,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,8.04,Cheque
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,18.72,Efectivo
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,12.28,PayPal
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,16.56,Cheque
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,13.08,Tarjeta de Crédito
+48,13/02/2024,Laptop,Electronica,970,4,Asia,8.83,PayPal
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,28.45,Efectivo
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,22.91,Cheque
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,4.2,PayPal
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,26.05,Cheque
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,14.62,Cheque
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,26.84,Efectivo
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,24,Desconocido
+56,18/03/2024,Laptop,Electronica,950,3,Asia,12.76,PayPal
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,0.67,Efectivo
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,8.06,Cheque
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,16.25,Efectivo
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,19,Transferencia Bancaria
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,7.74,PayPal
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,4.18,Transferencia Bancaria
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,25.05,Tarjeta de Crédito
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,29.53,PayPal
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,15.77,Transferencia Bancaria
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,5.15,Desconocido
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,8.17,PayPal
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,0.55,PayPal
+69,31/03/2024,Laptop,Electronica,970,4,Asia,27.43,Efectivo
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,3.53,Cheque
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,17.3,Tarjeta de Crédito
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,8.22,Transferencia Bancaria
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,16.63,Efectivo
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,19.54,Transferencia Bancaria
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,24.89,Tarjeta de Crédito
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,6.19,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,0.33,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,4.11,Tarjeta de Crédito
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,27,Transferencia Bancaria
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,26.22,Cheque
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,17.92,Cheque
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,18.02,PayPal
+4,18/01/2024,Laptop,Electronica,950,3,Asia,19.95,Transferencia Bancaria
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,5.26,Transferencia Bancaria
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,27.43,Tarjeta de Crédito
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,12.56,Transferencia Bancaria
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,11.49,Efectivo
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,15.57,Tarjeta de Crédito
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,1.41,Efectivo
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,4.99,PayPal
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,22.14,Cheque
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,2.48,PayPal
+14,28/01/2024,Laptop,Electronica,850,1,Europa,18.09,Cheque
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,7.36,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,11.68,Transferencia Bancaria
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,8.66,Efectivo
+18,01/02/2024,Tablet,Electronica,,4,Europa,10.67,Desconocido
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,21.57,Tarjeta de Crédito
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,8.91,Efectivo
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,16.99,Tarjeta de Crédito
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,14.28,Efectivo
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,19.91,Efectivo
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,28.1,Desconocido
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,21.98,Cheque
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,6.45,Cheque
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,0.94,Efectivo
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,7.87,Transferencia Bancaria
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,,Desconocido
+30,13/02/2024,Laptop,Electronica,970,4,Asia,1.54,Tarjeta de Crédito
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,14.89,Tarjeta de Crédito
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,17.91,PayPal
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,10.03,Efectivo
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,23.13,Tarjeta de Crédito
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,3.2,Tarjeta de Crédito
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,2.25,Efectivo
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,21.85,PayPal
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,14.86,Tarjeta de Crédito
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,20.65,Desconocido
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,13.04,Cheque
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,7.39,PayPal
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,24.57,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,23.98,Transferencia Bancaria
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,20.84,PayPal
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,8.16,Transferencia Bancaria
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,17.71,Cheque
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,10.83,Efectivo
+48,13/02/2024,Laptop,Electronica,970,4,Asia,2.75,Transferencia Bancaria
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,27.52,Transferencia Bancaria
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,,PayPal
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,28.51,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,13.38,Efectivo
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,5.55,PayPal
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,16.26,PayPal
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,26.19,Cheque
+56,18/03/2024,Laptop,Electronica,950,3,Asia,21.97,Efectivo
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,24.2,Cheque
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,19.76,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,20.77,Cheque
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,25.48,PayPal
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,7.49,PayPal
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,14.68,Tarjeta de Crédito
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,6.64,Transferencia Bancaria
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,29.63,Cheque
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,28.32,Tarjeta de Crédito
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,,Transferencia Bancaria
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,21.17,Cheque
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,27.76,Efectivo
+69,31/03/2024,Laptop,Electronica,970,4,Asia,5.42,Transferencia Bancaria
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,17.04,PayPal
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,27.46,Tarjeta de Crédito
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,1.02,Transferencia Bancaria
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,20.92,Transferencia Bancaria
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,8.92,PayPal
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,27.73,Cheque
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,29.13,Efectivo
+77,08/04/2024,Laptop,Electronica,950,3,Asia,28.33,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,14.23,Efectivo
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,25.86,Cheque
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,25.34,Transferencia Bancaria
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,9.57,Efectivo
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,24.87,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,1.11,Desconocido
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,17.89,PayPal
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,6.9,Cheque
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,3.62,PayPal
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,2.31,PayPal
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,20.89,PayPal
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,10.2,Tarjeta de Crédito
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,21.74,Desconocido
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,,PayPal
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,9.46,Tarjeta de Crédito
+14,28/01/2024,Laptop,Electronica,850,1,Europa,16.18,Cheque
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,23.72,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,9.56,Tarjeta de Crédito
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,18.78,Efectivo
+18,01/02/2024,Tablet,Electronica,,4,Europa,26.58,PayPal
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,18.48,PayPal
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,6.99,Cheque
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,0.73,Transferencia Bancaria
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,26.1,Transferencia Bancaria
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,0.64,Cheque
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,26.24,Cheque
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,15.87,Cheque
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,28.17,Transferencia Bancaria
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,23.96,Cheque
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,29.94,Tarjeta de Crédito
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,10.52,PayPal
+30,13/02/2024,Laptop,Electronica,970,4,Asia,23.02,PayPal
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,12.06,Efectivo
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,14.4,Efectivo
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,18.83,PayPal
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,26.21,Tarjeta de Crédito
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,29.52,Transferencia Bancaria
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,23.05,Transferencia Bancaria
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,12.53,Tarjeta de Crédito
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,12.64,Transferencia Bancaria
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,22.13,Cheque
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,7.16,PayPal
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,3.31,PayPal
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,10.64,Tarjeta de Crédito
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,8.62,Transferencia Bancaria
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,8.89,Efectivo
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,7.01,Efectivo
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,1.26,Transferencia Bancaria
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,0.54,Desconocido
+48,13/02/2024,Laptop,Electronica,970,4,Asia,29.63,Tarjeta de Crédito
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,12.83,Tarjeta de Crédito
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,11.53,Transferencia Bancaria
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,20.39,Efectivo
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,6.55,Tarjeta de Crédito
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,28.5,Tarjeta de Crédito
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,23.59,Cheque
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,2.68,Cheque
+56,18/03/2024,Laptop,Electronica,950,3,Asia,12.53,Tarjeta de Crédito
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,26.37,Transferencia Bancaria
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,28.34,PayPal
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,14.02,PayPal
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,18.4,Tarjeta de Crédito
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,5.01,Tarjeta de Crédito
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,29.74,Tarjeta de Crédito
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,6.95,Transferencia Bancaria
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,28.28,Cheque
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,19.49,Tarjeta de Crédito
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,18.23,Tarjeta de Crédito
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,15.38,Efectivo
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,6.92,Transferencia Bancaria
+69,31/03/2024,Laptop,Electronica,970,4,Asia,5.3,Tarjeta de Crédito
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,6.61,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,5.59,PayPal
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,23.39,Tarjeta de Crédito
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,10.5,Tarjeta de Crédito
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,1.74,Efectivo
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,29.07,Transferencia Bancaria
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,26.51,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,27.83,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,29.85,Tarjeta de Crédito
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,5.22,PayPal
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,11.89,Cheque
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,22.75,Cheque
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,20.88,PayPal
+4,18/01/2024,Laptop,Electronica,950,3,Asia,4.62,Transferencia Bancaria
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,24.47,Desconocido
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,6.73,Tarjeta de Crédito
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,6.71,Cheque
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,16.11,PayPal
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,17.79,Tarjeta de Crédito
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,17.4,Tarjeta de Crédito
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,2.74,Transferencia Bancaria
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,26.32,Efectivo
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,7.97,Desconocido
+14,28/01/2024,Laptop,Electronica,850,1,Europa,3.89,Cheque
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,26.66,Efectivo
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,28.67,Tarjeta de Crédito
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,25.86,Transferencia Bancaria
+18,01/02/2024,Tablet,Electronica,,4,Europa,,Desconocido
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,19.66,Cheque
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,16.53,Transferencia Bancaria
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,2.61,Efectivo
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,12.25,Tarjeta de Crédito
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,11.18,Efectivo
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,7.79,PayPal
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,21.7,Cheque
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,14.88,Transferencia Bancaria
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,2.43,PayPal
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,6.61,Transferencia Bancaria
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,20.5,Tarjeta de Crédito
+30,13/02/2024,Laptop,Electronica,970,4,Asia,2.28,Tarjeta de Crédito
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,25.54,Tarjeta de Crédito
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,14.85,Transferencia Bancaria
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,14.42,PayPal
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,17.77,Tarjeta de Crédito
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,24.74,PayPal
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,10.43,Transferencia Bancaria
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,20.34,PayPal
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,16.97,Transferencia Bancaria
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,,Transferencia Bancaria
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,26.36,Cheque
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,23.92,Transferencia Bancaria
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,19.75,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,25.52,Efectivo
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,26.02,Tarjeta de Crédito
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,21.25,Cheque
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,25.11,Cheque
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,20.92,Cheque
+48,13/02/2024,Laptop,Electronica,970,4,Asia,20.4,Efectivo
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,18.56,Transferencia Bancaria
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,22.58,Tarjeta de Crédito
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,4.76,PayPal
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,26.43,Transferencia Bancaria
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,26.16,Efectivo
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,0.88,Transferencia Bancaria
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,24.77,Transferencia Bancaria
+56,18/03/2024,Laptop,Electronica,950,3,Asia,3.87,Efectivo
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,10.05,Cheque
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,22.31,Cheque
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,4.82,Tarjeta de Crédito
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,24.54,Tarjeta de Crédito
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,24.96,Cheque
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,15.22,PayPal
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,0.19,Transferencia Bancaria
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,8.61,PayPal
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,18.51,Transferencia Bancaria
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,29.44,Cheque
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,18.95,Desconocido
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,7.79,Tarjeta de Crédito
+69,31/03/2024,Laptop,Electronica,970,4,Asia,19.02,PayPal
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,16.2,Tarjeta de Crédito
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,23.4,Cheque
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,3.21,PayPal
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,22.83,Transferencia Bancaria
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,16.24,Tarjeta de Crédito
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,28.89,Efectivo
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,10.26,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,18.98,Transferencia Bancaria
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,27.96,PayPal
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,3.08,Transferencia Bancaria
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,28.12,Efectivo
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,20.64,Cheque
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,2.04,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,9.03,PayPal
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,21.25,Cheque
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,2.02,Transferencia Bancaria
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,17.47,PayPal
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,10.38,Cheque
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,18.63,PayPal
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,1.37,Efectivo
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,26.15,Efectivo
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,29.2,Tarjeta de Crédito
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,29.07,Tarjeta de Crédito
+14,28/01/2024,Laptop,Electronica,850,1,Europa,22.49,Efectivo
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,3.9,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,22.75,Efectivo
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,0.74,Tarjeta de Crédito
+18,01/02/2024,Tablet,Electronica,,4,Europa,0.66,Efectivo
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,9.71,Efectivo
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,14.66,PayPal
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,23.11,Cheque
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,20.5,Tarjeta de Crédito
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,13.38,PayPal
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,8.21,Efectivo
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,29.91,Efectivo
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,12.79,Cheque
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,13.54,Tarjeta de Crédito
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,4.91,Tarjeta de Crédito
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,23.84,Transferencia Bancaria
+30,13/02/2024,Laptop,Electronica,970,4,Asia,20.81,Tarjeta de Crédito
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,6.62,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,2.47,Transferencia Bancaria
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,20.41,Transferencia Bancaria
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,19.64,Efectivo
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,8.2,Efectivo
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,28.53,Tarjeta de Crédito
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,4.53,Transferencia Bancaria
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,12.97,Efectivo
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,28.31,Cheque
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,12.59,Efectivo
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,19.16,Efectivo
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,11.93,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,8.23,Transferencia Bancaria
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,29.52,PayPal
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,12.28,Cheque
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,26.82,Transferencia Bancaria
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,6.9,Tarjeta de Crédito
+48,13/02/2024,Laptop,Electronica,970,4,Asia,6.39,Cheque
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,0.93,Cheque
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,19.55,Transferencia Bancaria
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,11.06,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,25.93,Transferencia Bancaria
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,14.2,Efectivo
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,29.05,PayPal
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,5.57,Efectivo
+56,18/03/2024,Laptop,Electronica,950,3,Asia,26.06,Transferencia Bancaria
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,23.3,Transferencia Bancaria
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,23.13,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,25.34,Tarjeta de Crédito
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,22.83,Tarjeta de Crédito
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,18.79,Tarjeta de Crédito
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,3.94,Transferencia Bancaria
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,0.98,Cheque
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,27.63,Transferencia Bancaria
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,18.5,Desconocido
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,23.9,Efectivo
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,14.45,PayPal
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,3.52,Cheque
+69,31/03/2024,Laptop,Electronica,970,4,Asia,3.76,Tarjeta de Crédito
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,20.57,Transferencia Bancaria
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,12.91,Efectivo
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,6.02,Tarjeta de Crédito
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,14.75,Efectivo
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,1.93,Desconocido
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,17.46,Transferencia Bancaria
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,8.07,Transferencia Bancaria
+77,08/04/2024,Laptop,Electronica,950,3,Asia,23.93,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,9.31,Transferencia Bancaria
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,13.66,Cheque
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,0.35,Efectivo
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,2.17,Tarjeta de Crédito
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,,PayPal
+4,18/01/2024,Laptop,Electronica,950,3,Asia,14.4,Cheque
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,18,Tarjeta de Crédito
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,8.75,Tarjeta de Crédito
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,20.85,PayPal
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,25.8,Cheque
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,23.4,Tarjeta de Crédito
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,1.19,Tarjeta de Crédito
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,14.42,Cheque
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,3.15,Transferencia Bancaria
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,7.26,Tarjeta de Crédito
+14,28/01/2024,Laptop,Electronica,850,1,Europa,29.6,Efectivo
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,4.27,Cheque
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,14.97,Tarjeta de Crédito
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,18.54,PayPal
+18,01/02/2024,Tablet,Electronica,,4,Europa,21.07,Efectivo
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,16.79,Tarjeta de Crédito
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,0.29,Efectivo
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,9.79,Efectivo
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,15.53,Transferencia Bancaria
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,2.64,Efectivo
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,10.52,Transferencia Bancaria
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,1,Cheque
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,2.36,Desconocido
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,11.91,PayPal
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,3.98,Tarjeta de Crédito
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,17.03,Cheque
+30,13/02/2024,Laptop,Electronica,970,4,Asia,20.68,Cheque
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,24.02,PayPal
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,6,Transferencia Bancaria
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,5.02,Tarjeta de Crédito
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,3.14,Transferencia Bancaria
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,19.09,Efectivo
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,21.19,Transferencia Bancaria
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,0.95,Cheque
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,28.09,Tarjeta de Crédito
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,1.56,Transferencia Bancaria
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,16.24,Tarjeta de Crédito
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,21.27,Tarjeta de Crédito
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,26.13,Efectivo
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,21.42,Efectivo
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,24.05,Cheque
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,10.18,PayPal
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,24.44,Tarjeta de Crédito
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,2.4,PayPal
+48,13/02/2024,Laptop,Electronica,970,4,Asia,26.84,Cheque
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,16.43,Tarjeta de Crédito
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,24.52,Tarjeta de Crédito
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,13.57,PayPal
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,19.31,Transferencia Bancaria
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,15.79,Efectivo
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,21.95,Transferencia Bancaria
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,2.45,PayPal
+56,18/03/2024,Laptop,Electronica,950,3,Asia,1.81,Efectivo
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,7.41,Transferencia Bancaria
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,4.79,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,26.15,Tarjeta de Crédito
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,6.58,Transferencia Bancaria
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,29.28,Efectivo
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,10.11,Efectivo
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,5.46,Efectivo
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,23.69,Transferencia Bancaria
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,19.76,Cheque
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,14.95,Transferencia Bancaria
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,16.66,PayPal
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,,Transferencia Bancaria
+69,31/03/2024,Laptop,Electronica,970,4,Asia,6.85,Efectivo
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,29.89,Tarjeta de Crédito
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,29.24,Transferencia Bancaria
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,19.51,Transferencia Bancaria
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,5.99,Efectivo
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,20.41,Tarjeta de Crédito
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,2.17,Tarjeta de Crédito
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.92,PayPal
+77,08/04/2024,Laptop,Electronica,950,3,Asia,7.73,Transferencia Bancaria
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,13.88,Tarjeta de Crédito
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,26.05,Tarjeta de Crédito
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,21.82,Cheque
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,22.28,Cheque
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,12.76,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,10.38,PayPal
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,11.13,Tarjeta de Crédito
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,29.63,Efectivo
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,1.2,Transferencia Bancaria
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,26.01,PayPal
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,17.36,Desconocido
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,13.16,PayPal
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,21.76,Efectivo
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,14.6,Transferencia Bancaria
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,26.2,Transferencia Bancaria
+14,28/01/2024,Laptop,Electronica,850,1,Europa,27.02,Cheque
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,12.65,Efectivo
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,8.3,Cheque
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,17.77,Efectivo
+18,01/02/2024,Tablet,Electronica,,4,Europa,27.37,Cheque
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,6.32,Transferencia Bancaria
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,18.69,PayPal
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,18.95,Cheque
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,21.99,Efectivo
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,3.95,Efectivo
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,21.47,Transferencia Bancaria
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,27.27,Efectivo
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,5.39,Tarjeta de Crédito
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,,PayPal
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,29.14,Cheque
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,5.43,PayPal
+30,13/02/2024,Laptop,Electronica,970,4,Asia,25.63,Transferencia Bancaria
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,14.77,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,7.42,Cheque
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,26.12,Tarjeta de Crédito
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,13.36,Desconocido
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,15.44,Efectivo
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,10.78,Tarjeta de Crédito
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,17.79,Tarjeta de Crédito
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,4.91,PayPal
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,11.73,PayPal
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,29.08,PayPal
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,7.74,Desconocido
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,19.7,Efectivo
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,9.76,Cheque
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,23.2,PayPal
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,3.93,Efectivo
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,29.09,Transferencia Bancaria
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,13.61,PayPal
+48,13/02/2024,Laptop,Electronica,970,4,Asia,7.08,Cheque
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,2.2,Transferencia Bancaria
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,5.09,Transferencia Bancaria
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,15.59,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,,PayPal
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,24.87,Tarjeta de Crédito
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,12.93,Cheque
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,7.46,Cheque
+56,18/03/2024,Laptop,Electronica,950,3,Asia,18.51,Cheque
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,21.2,Transferencia Bancaria
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,5.01,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,,Tarjeta de Crédito
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,1.1,PayPal
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,22.09,PayPal
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,19.91,Efectivo
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,14.24,Cheque
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,25.33,Tarjeta de Crédito
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,24.17,PayPal
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,17.56,PayPal
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,26.05,Cheque
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,6.18,Efectivo
+69,31/03/2024,Laptop,Electronica,970,4,Asia,3.36,Tarjeta de Crédito
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,8.09,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,1.71,Desconocido
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,15.94,Tarjeta de Crédito
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,28.1,Tarjeta de Crédito
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,1.18,PayPal
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,3.66,PayPal
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,13.57,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,28.02,Transferencia Bancaria
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,9.48,PayPal
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,15.22,Transferencia Bancaria
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,1.25,Tarjeta de Crédito
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,4.45,Desconocido
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,29.6,Efectivo
+4,18/01/2024,Laptop,Electronica,950,3,Asia,28.95,Tarjeta de Crédito
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,0.15,Cheque
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,28.55,Transferencia Bancaria
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,19.17,Tarjeta de Crédito
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,26.04,Desconocido
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,13.64,PayPal
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,15.47,PayPal
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,14.67,PayPal
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,20.01,Cheque
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,4.19,PayPal
+14,28/01/2024,Laptop,Electronica,850,1,Europa,0.9,Tarjeta de Crédito
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,9.24,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,21.14,Efectivo
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,6.06,PayPal
+18,01/02/2024,Tablet,Electronica,,4,Europa,20.2,Cheque
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,,Efectivo
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,2.82,Desconocido
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,,Tarjeta de Crédito
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,13.31,Transferencia Bancaria
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,26.04,Efectivo
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,5.31,Transferencia Bancaria
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,20.78,Efectivo
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,25.14,Efectivo
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,28.34,Cheque
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,20.5,Transferencia Bancaria
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,14.92,Cheque
+30,13/02/2024,Laptop,Electronica,970,4,Asia,18.54,Efectivo
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,26.07,Tarjeta de Crédito
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,17.12,Efectivo
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,0.91,Cheque
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,27.93,Transferencia Bancaria
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,20.69,Transferencia Bancaria
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,20.3,Cheque
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,6.47,Transferencia Bancaria
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,19.77,PayPal
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,11.82,Tarjeta de Crédito
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,19.54,Tarjeta de Crédito
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,3.2,Tarjeta de Crédito
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,19.74,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,29.98,Transferencia Bancaria
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,1.45,Efectivo
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,29.32,Efectivo
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,12.21,Tarjeta de Crédito
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,26.12,PayPal
+48,13/02/2024,Laptop,Electronica,970,4,Asia,23.47,Efectivo
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,17.01,Efectivo
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,22.15,Transferencia Bancaria
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,26.36,PayPal
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,12.12,Tarjeta de Crédito
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,9.81,Efectivo
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,20.03,PayPal
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,,PayPal
+56,18/03/2024,Laptop,Electronica,950,3,Asia,22.87,Tarjeta de Crédito
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,23.93,PayPal
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,13.07,PayPal
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,24.54,PayPal
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,3.61,Efectivo
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,16.33,Tarjeta de Crédito
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,,PayPal
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,9.74,PayPal
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,10.99,Efectivo
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,11.89,Tarjeta de Crédito
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,20.86,Transferencia Bancaria
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,11.66,Efectivo
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,13.46,Tarjeta de Crédito
+69,31/03/2024,Laptop,Electronica,970,4,Asia,7.13,PayPal
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,11.2,Tarjeta de Crédito
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,6.82,Tarjeta de Crédito
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,2.2,Tarjeta de Crédito
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,18.1,Transferencia Bancaria
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,20.05,Tarjeta de Crédito
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,18.58,Transferencia Bancaria
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,13.9,PayPal
+77,08/04/2024,Laptop,Electronica,950,3,Asia,11.39,Transferencia Bancaria
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,25.9,PayPal
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,15.57,PayPal
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,14.38,Transferencia Bancaria
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,0.77,Efectivo
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,10.24,Cheque
+4,18/01/2024,Laptop,Electronica,950,3,Asia,11.41,Desconocido
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,11.96,Cheque
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,17.41,Tarjeta de Crédito
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,16.01,Tarjeta de Crédito
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,18.24,PayPal
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,22.95,Tarjeta de Crédito
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,24.39,Tarjeta de Crédito
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,21.54,Transferencia Bancaria
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,28.67,Cheque
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,0.55,Transferencia Bancaria
+14,28/01/2024,Laptop,Electronica,850,1,Europa,5.87,Tarjeta de Crédito
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,0.23,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,19.42,Transferencia Bancaria
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,26.94,Transferencia Bancaria
+18,01/02/2024,Tablet,Electronica,,4,Europa,7.3,Efectivo
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,,Tarjeta de Crédito
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,1.81,PayPal
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,28.03,Transferencia Bancaria
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,10.55,Transferencia Bancaria
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,3.04,Desconocido
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,14.58,Tarjeta de Crédito
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,7.7,Efectivo
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,8.55,Transferencia Bancaria
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,9.22,Efectivo
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,24.09,Cheque
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,16.17,Tarjeta de Crédito
+30,13/02/2024,Laptop,Electronica,970,4,Asia,9.34,Cheque
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,18.31,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,21.48,Cheque
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,8.18,Tarjeta de Crédito
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,12.41,Tarjeta de Crédito
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,3.66,PayPal
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,5.43,Efectivo
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,20.43,Efectivo
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,5.44,Desconocido
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,15.75,PayPal
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,21.27,Cheque
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,3.21,PayPal
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,17.02,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,7.7,Efectivo
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,28.89,PayPal
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,14.51,Transferencia Bancaria
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,24.18,Transferencia Bancaria
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,,Transferencia Bancaria
+48,13/02/2024,Laptop,Electronica,970,4,Asia,1.3,Transferencia Bancaria
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,18.99,Cheque
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,28.54,Transferencia Bancaria
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,18.05,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,24.58,Cheque
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,26.53,Transferencia Bancaria
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,6.84,Desconocido
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,6.36,Transferencia Bancaria
+56,18/03/2024,Laptop,Electronica,950,3,Asia,18.33,Transferencia Bancaria
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,12.33,Transferencia Bancaria
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,25.2,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,27,Tarjeta de Crédito
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,10.6,Tarjeta de Crédito
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,7.11,Cheque
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,23.42,Cheque
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,8.24,Efectivo
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,24.68,PayPal
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,,Tarjeta de Crédito
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,20.03,Cheque
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,2.87,Tarjeta de Crédito
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,18.72,Efectivo
+69,31/03/2024,Laptop,Electronica,970,4,Asia,13.55,Efectivo
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,,PayPal
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,5.04,PayPal
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,22.11,Efectivo
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,25.88,Cheque
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,6.5,Tarjeta de Crédito
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,2.87,Transferencia Bancaria
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.71,PayPal
+77,08/04/2024,Laptop,Electronica,950,3,Asia,19.26,Transferencia Bancaria
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,18.21,Cheque
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,16.4,PayPal
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,6.96,Transferencia Bancaria
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,11.73,Cheque
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,17.83,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,14.9,Cheque
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,29.63,PayPal
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,4.09,Efectivo
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,20.85,Tarjeta de Crédito
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,12.13,Transferencia Bancaria
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,12.85,PayPal
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,21.53,Efectivo
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,20.77,Cheque
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,29.74,Efectivo
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,3.85,PayPal
+14,28/01/2024,Laptop,Electronica,850,1,Europa,3.12,PayPal
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,21.73,Efectivo
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,17.35,Cheque
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,8.22,Efectivo
+18,01/02/2024,Tablet,Electronica,,4,Europa,2.38,PayPal
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,2.57,PayPal
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,26.83,Transferencia Bancaria
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,5.76,Transferencia Bancaria
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,9.7,Tarjeta de Crédito
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,6.8,PayPal
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,10.65,Transferencia Bancaria
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,2.08,Efectivo
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,15.57,Cheque
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,2.03,Efectivo
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,24.01,Cheque
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,7.01,Transferencia Bancaria
+30,13/02/2024,Laptop,Electronica,970,4,Asia,16.2,Tarjeta de Crédito
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,26.4,Efectivo
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,19.53,Efectivo
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,15.99,Efectivo
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,9.73,Cheque
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,9.99,Transferencia Bancaria
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,20.08,Efectivo
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,29.82,Efectivo
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,19.86,Desconocido
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,16.73,Tarjeta de Crédito
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,21.92,Transferencia Bancaria
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,13.96,Transferencia Bancaria
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,1.8,PayPal
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,16.87,Tarjeta de Crédito
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,28.73,PayPal
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,5.26,Cheque
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,20.7,PayPal
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,6.03,Efectivo
+48,13/02/2024,Laptop,Electronica,970,4,Asia,16.07,PayPal
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,2.9,Transferencia Bancaria
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,13.51,Cheque
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,22.68,Efectivo
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,10.43,PayPal
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,19.95,Cheque
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,23.86,Cheque
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,27.82,Efectivo
+56,18/03/2024,Laptop,Electronica,950,3,Asia,7.04,Desconocido
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,11.98,Cheque
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,4.57,Cheque
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,29.77,Tarjeta de Crédito
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,27.81,Cheque
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,16.2,Tarjeta de Crédito
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,25.26,PayPal
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,15.63,PayPal
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,18.71,PayPal
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,2.67,Transferencia Bancaria
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,,PayPal
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,3.83,Cheque
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,24.78,Efectivo
+69,31/03/2024,Laptop,Electronica,970,4,Asia,23.46,Tarjeta de Crédito
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,21.26,Transferencia Bancaria
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,1.08,PayPal
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,9.09,PayPal
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,7.89,Efectivo
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,10.8,Efectivo
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,2.63,Transferencia Bancaria
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,28.11,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,16.61,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,9.17,Transferencia Bancaria
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,11.91,Cheque
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,13.42,Cheque
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,18.02,Transferencia Bancaria
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,15.47,PayPal
+4,18/01/2024,Laptop,Electronica,950,3,Asia,27.58,Transferencia Bancaria
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,14.91,PayPal
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,29.76,Efectivo
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,25.54,Transferencia Bancaria
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,6.26,PayPal
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,27.92,Transferencia Bancaria
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,3.49,Transferencia Bancaria
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,24.52,PayPal
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,11.42,PayPal
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,26.34,Tarjeta de Crédito
+14,28/01/2024,Laptop,Electronica,850,1,Europa,26.04,Transferencia Bancaria
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,24.18,Cheque
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,23.7,Transferencia Bancaria
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,9.14,Transferencia Bancaria
+18,01/02/2024,Tablet,Electronica,,4,Europa,2.43,PayPal
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,12.09,Transferencia Bancaria
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,5.21,Transferencia Bancaria
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,20.85,Cheque
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,10.38,PayPal
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,,Transferencia Bancaria
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,19.23,Efectivo
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,24.67,Tarjeta de Crédito
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,3.98,Cheque
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,25.86,Transferencia Bancaria
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,27.68,Efectivo
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,,Transferencia Bancaria
+30,13/02/2024,Laptop,Electronica,970,4,Asia,,Transferencia Bancaria
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,22.94,PayPal
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,5.25,PayPal
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,15.08,PayPal
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,11.96,Efectivo
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,4.39,Transferencia Bancaria
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,11.03,Tarjeta de Crédito
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,2.05,Cheque
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,0.77,PayPal
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,4.05,PayPal
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,28.89,Transferencia Bancaria
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,16.49,Transferencia Bancaria
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,28.97,Efectivo
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,12.97,Efectivo
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,9.35,PayPal
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,15.18,Transferencia Bancaria
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,13.19,Tarjeta de Crédito
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,3.17,Cheque
+48,13/02/2024,Laptop,Electronica,970,4,Asia,19.22,Transferencia Bancaria
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,6.48,Transferencia Bancaria
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,18.59,Efectivo
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,19.51,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,4.56,PayPal
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,1.84,Transferencia Bancaria
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,23.42,PayPal
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,13.79,Transferencia Bancaria
+56,18/03/2024,Laptop,Electronica,950,3,Asia,1.74,PayPal
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,29.85,Cheque
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,1.73,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,20.85,Cheque
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,29.51,Tarjeta de Crédito
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,7.18,Efectivo
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,4.27,Cheque
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,3.64,Tarjeta de Crédito
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,9.1,Transferencia Bancaria
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,3.03,Transferencia Bancaria
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,20.76,PayPal
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,1.87,Efectivo
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,15.28,Transferencia Bancaria
+69,31/03/2024,Laptop,Electronica,970,4,Asia,29.9,Efectivo
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,24.42,Transferencia Bancaria
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,18.46,PayPal
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,9.19,Cheque
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,18.72,PayPal
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,15.81,Tarjeta de Crédito
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,12.78,Transferencia Bancaria
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,3.92,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,26.6,Tarjeta de Crédito
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,13.49,Efectivo
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,5.84,Transferencia Bancaria
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,11.03,Tarjeta de Crédito
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,12.42,Cheque
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,24.83,Tarjeta de Crédito
+4,18/01/2024,Laptop,Electronica,950,3,Asia,22.01,Cheque
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,,Efectivo
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,0.33,Tarjeta de Crédito
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,12.48,PayPal
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,14.44,Efectivo
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,0.58,Cheque
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,7.79,Efectivo
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,22.81,Tarjeta de Crédito
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,4.11,Transferencia Bancaria
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,16.06,Transferencia Bancaria
+14,28/01/2024,Laptop,Electronica,850,1,Europa,6.46,Cheque
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,0.36,Cheque
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,7.24,Transferencia Bancaria
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,29.28,Cheque
+18,01/02/2024,Tablet,Electronica,,4,Europa,24.05,Efectivo
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,28.79,PayPal
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,14.64,PayPal
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,3.29,Efectivo
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,16.44,PayPal
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,13.63,Tarjeta de Crédito
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,25.33,Efectivo
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,2.94,Cheque
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,14.65,Efectivo
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,4.5,Transferencia Bancaria
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,9.74,Cheque
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,22.12,Transferencia Bancaria
+30,13/02/2024,Laptop,Electronica,970,4,Asia,14.28,Cheque
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,11.28,PayPal
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,11.83,Efectivo
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,13.78,Tarjeta de Crédito
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,23.55,Cheque
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,26.76,Cheque
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,28.66,Transferencia Bancaria
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,23.61,PayPal
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,9.46,Transferencia Bancaria
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,20.64,Transferencia Bancaria
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,13.13,PayPal
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,7.64,Tarjeta de Crédito
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,25.23,Transferencia Bancaria
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,1.15,Transferencia Bancaria
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,27.05,Cheque
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,13.84,PayPal
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,19.12,Efectivo
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,,Tarjeta de Crédito
+48,13/02/2024,Laptop,Electronica,970,4,Asia,26.85,Tarjeta de Crédito
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,19.1,Desconocido
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,18.42,Cheque
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,2,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,15.55,PayPal
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,4.51,Cheque
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,22.12,Tarjeta de Crédito
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,15.37,Tarjeta de Crédito
+56,18/03/2024,Laptop,Electronica,950,3,Asia,20.41,Efectivo
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,1.25,PayPal
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,,Transferencia Bancaria
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,21.49,Transferencia Bancaria
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,2.16,Efectivo
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,2.14,Desconocido
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,0.36,Cheque
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,28.7,Efectivo
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,22.13,Efectivo
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,10.6,Transferencia Bancaria
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,8.9,Cheque
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,10.49,Efectivo
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,23.24,Efectivo
+69,31/03/2024,Laptop,Electronica,970,4,Asia,19.84,Cheque
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,5.56,PayPal
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,5.22,Cheque
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,2.95,Transferencia Bancaria
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,19.81,PayPal
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,22.93,Tarjeta de Crédito
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,7.95,Cheque
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.63,Transferencia Bancaria
+77,08/04/2024,Laptop,Electronica,950,3,Asia,2.47,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,29.04,Cheque
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,8.86,Efectivo
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,23.08,Cheque
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,18.74,Tarjeta de Crédito
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,11.46,Desconocido
+4,18/01/2024,Laptop,Electronica,950,3,Asia,6.17,PayPal
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,3.64,PayPal
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,18.45,Cheque
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,23.24,PayPal
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,19.32,Efectivo
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,15.91,Cheque
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,1.26,Efectivo
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,29.05,Efectivo
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,23.96,Transferencia Bancaria
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,8.78,Cheque
+14,28/01/2024,Laptop,Electronica,850,1,Europa,29.4,PayPal
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,18.06,Efectivo
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,17.47,Transferencia Bancaria
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,22.44,Cheque
+18,01/02/2024,Tablet,Electronica,,4,Europa,,Cheque
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,19.69,Tarjeta de Crédito
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,3.84,Tarjeta de Crédito
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,10.15,Efectivo
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,27.84,Tarjeta de Crédito
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,6.74,Efectivo
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,11.17,PayPal
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,12.96,Efectivo
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,13.18,Tarjeta de Crédito
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,18.39,PayPal
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,,Tarjeta de Crédito
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,7.22,Efectivo
+30,13/02/2024,Laptop,Electronica,970,4,Asia,3.65,Transferencia Bancaria
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,5.92,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,26.61,Tarjeta de Crédito
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,19.37,Efectivo
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,8.58,PayPal
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,24.48,Tarjeta de Crédito
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,25.84,Tarjeta de Crédito
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,25.4,Cheque
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,,Efectivo
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,7.57,Transferencia Bancaria
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,22.65,PayPal
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,13.82,Efectivo
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,25.26,PayPal
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,21.85,Tarjeta de Crédito
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,23.29,Cheque
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,19.68,Cheque
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,5.32,Transferencia Bancaria
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,16.35,Cheque
+48,13/02/2024,Laptop,Electronica,970,4,Asia,,Tarjeta de Crédito
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,28.12,Desconocido
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,1.3,Efectivo
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,4.94,Cheque
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,3.95,Transferencia Bancaria
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,21.78,Tarjeta de Crédito
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,24.53,PayPal
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,6.41,PayPal
+56,18/03/2024,Laptop,Electronica,950,3,Asia,15.18,Tarjeta de Crédito
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,25.22,Tarjeta de Crédito
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,21.98,PayPal
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,16.27,Transferencia Bancaria
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,17.71,PayPal
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,15.25,Tarjeta de Crédito
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,8.93,Cheque
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,16.95,Efectivo
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,20.67,Cheque
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,26.2,Cheque
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,19.09,Tarjeta de Crédito
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,22.83,PayPal
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,4.8,Transferencia Bancaria
+69,31/03/2024,Laptop,Electronica,970,4,Asia,13.85,Cheque
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,0.28,PayPal
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,7.4,Transferencia Bancaria
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,21.79,Cheque
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,29.75,Transferencia Bancaria
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,2.98,PayPal
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,12.04,Efectivo
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,24,PayPal
+77,08/04/2024,Laptop,Electronica,950,3,Asia,6.12,Tarjeta de Crédito
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,,Transferencia Bancaria
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,21.99,Efectivo
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,18.48,Transferencia Bancaria
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,,Transferencia Bancaria
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,10.66,Cheque
+4,18/01/2024,Laptop,Electronica,950,3,Asia,23.51,Tarjeta de Crédito
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,16.63,Transferencia Bancaria
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,0.16,PayPal
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,22.83,PayPal
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,1.06,Cheque
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,22.37,Tarjeta de Crédito
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,6.07,Tarjeta de Crédito
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,28.74,PayPal
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,11.04,Efectivo
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,9.81,Cheque
+14,28/01/2024,Laptop,Electronica,850,1,Europa,4.47,Cheque
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,9.17,PayPal
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,26.3,PayPal
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,29.89,Efectivo
+18,01/02/2024,Tablet,Electronica,,4,Europa,11.05,Efectivo
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,13.46,Tarjeta de Crédito
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,21.66,Cheque
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,26.59,Cheque
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,17.79,PayPal
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,11.75,Tarjeta de Crédito
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,12.38,Cheque
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,20.87,Tarjeta de Crédito
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,0.1,Tarjeta de Crédito
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,18.59,PayPal
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,10.66,Tarjeta de Crédito
+29,12/02/2024,Refrigerador,NaN,-1250,1,Europa,23.83,Efectivo
+30,13/02/2024,Laptop,Electronica,970,4,Asia,2.79,Efectivo
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,17.65,Transferencia Bancaria
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,14.43,PayPal
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,19.27,Transferencia Bancaria
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,1.95,Efectivo
+35,18/02/2024,Microondas,NaN,,10,Sudamerica,17.4,Transferencia Bancaria
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,16.84,PayPal
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,,PayPal
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,18.1,Tarjeta de Crédito
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,20.29,Cheque
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,24.15,Desconocido
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,8.09,PayPal
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,24.75,Efectivo
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,14.95,Efectivo
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,2.31,Tarjeta de Crédito
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,1.76,PayPal
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,10.03,Efectivo
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,23.55,PayPal
+48,13/02/2024,Laptop,Electronica,970,4,Asia,21.23,Efectivo
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,23.66,PayPal
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,15.52,Transferencia Bancaria
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,13.21,PayPal
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,4.42,Desconocido
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,9.85,Tarjeta de Crédito
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,13.02,Transferencia Bancaria
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,2.66,Cheque
+56,18/03/2024,Laptop,Electronica,950,3,Asia,6.62,Tarjeta de Crédito
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,17.95,Cheque
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,22.07,Efectivo
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,29.95,Cheque
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,27.99,PayPal
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,19.28,Cheque
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,12.64,Tarjeta de Crédito
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,19.09,Tarjeta de Crédito
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,23.57,Cheque
+65,27/03/2024,Smartphoness,Electronica,750,7,Norteamerica,3.55,Tarjeta de Crédito
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,12.3,Tarjeta de Crédito
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,25.19,Cheque
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,11.51,Transferencia Bancaria
+69,31/03/2024,LaptopS,Electronica,970,4,Asia,17.16,Transferencia Bancaria
+70,01/04/2024,NaN,Electronica,690,8,Sudamerica,17.63,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,5.53,Tarjeta de Crédito
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,10.87,Cheque
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,10.04,Tarjeta de Crédito
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,0.79,PayPal
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,0.73,Tarjeta de Crédito
+76,07/04/2024,NaN,Electrodomestico,1200,1,Sudamerica,24.95,Tarjeta de Crédito
+77,08/04/2024,Laptop,Electronica,950,3,Asia,8.19,Transferencia Bancaria
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,15.54,Cheque
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,8.96,Tarjeta de Crédito
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,28.22,Transferencia Bancaria
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,7.78,Efectivo
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,12.89,Transferencia Bancaria
+4,18/01/2024,Laptop,Electronica,950,3,Asia,26.18,Transferencia Bancaria
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,25.26,Transferencia Bancaria
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,5.58,Tarjeta de Crédito
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,24.08,Tarjeta de Crédito
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,13.75,Efectivo
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,14.49,PayPal
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,4,PayPal
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,2.42,PayPal
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,21.84,Efectivo
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,14.89,PayPal
+14,28/01/2024,Laptop,Electronica,850,1,Europa,13.11,PayPal
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,21.89,Transferencia Bancaria
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,22.97,Tarjeta de Crédito
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,4.77,Tarjeta de Crédito
+18,01/02/2024,Tablet,Electronica,,4,Europa,18.31,Transferencia Bancaria
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,4.06,Transferencia Bancaria
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,22.54,Transferencia Bancaria
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,19.71,Tarjeta de Crédito
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,28.7,PayPal
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,2.07,Transferencia Bancaria
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,1.71,Efectivo
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,8.47,Transferencia Bancaria
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,7.85,Cheque
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,7.41,Transferencia Bancaria
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,27.19,Tarjeta de Crédito
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,7.49,Transferencia Bancaria
+30,13/02/2024,Laptop,Electronica,970,4,Asia,8.16,Cheque
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,22.78,Efectivo
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,13.49,PayPal
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,23.3,Transferencia Bancaria
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,1.96,Cheque
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,14.63,Cheque
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,1.01,Efectivo
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,1.88,Tarjeta de Crédito
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,27.19,Transferencia Bancaria
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,4.18,Cheque
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,15.97,Efectivo
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,12.33,PayPal
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,10.42,Cheque
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,27,Efectivo
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,0.65,Tarjeta de Crédito
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,19.91,Tarjeta de Crédito
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,28.9,Cheque
+47,12/02/2024,Refrigerador,Electrodomestico,1250,1,Europa,16.81,Cheque
+48,13/02/2024,Laptop,Electronica,970,4,Asia,28.1,Transferencia Bancaria
+49,14/02/2024,Smartphone,Electronica,,8,Sudamerica,1.57,Efectivo
+50,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,12.56,Cheque
+51,16/02/2024,Aspiradora,Electrodomestico,-155,7,Norteamerica,7.8,Transferencia Bancaria
+52,17/02/2024,Lavadora,Electrodomestico,810,2,Asia,21.92,Transferencia Bancaria
+53,15/03/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,29.44,Cheque
+54,16/03/2024,Smartphone,Electronica,700,5,Europa,7.7,Tarjeta de Crédito
+55,17/03/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,19.63,Efectivo
+56,18/03/2024,Laptop,Electronica,950,3,Asia,5.94,Efectivo
+57,19/03/2024,Lavadora,Electrodomestico,,1,Norteamerica,16.96,Tarjeta de Crédito
+58,20/03/2024,"Televisor 55""",Electronica,650,4,Europa,13.92,Cheque
+59,21/03/2024,Aspiradora,Electrodomestico,150,10,Sudamerica,29.16,Efectivo
+60,22/03/2024,Smartphone,Electronica,650,6,Norteamerica,18.26,Desconocido
+61,23/03/2024,Laptop,Electronica,1000,2,Asia,10.49,Cheque
+62,24/03/2024,Microondas,Electrodomestico,120,8,Europa,3.42,Transferencia Bancaria
+63,25/03/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,4.54,Tarjeta de Crédito
+64,26/03/2024,Lavadora,Electrodomestico,,3,Asia,6.76,Cheque
+65,27/03/2024,Smartphone,Electronica,750,7,Norteamerica,7.53,PayPal
+66,28/03/2024,Microondas,Electrodomestico,,9,Asia,25.52,Tarjeta de Crédito
+67,29/03/2024,"Televisor 42""",Electronica,500,3,Norteamerica,16.84,Efectivo
+68,30/03/2024,Refrigerador,Electrodomestico,1250,1,Europa,15.7,Transferencia Bancaria
+69,31/03/2024,Laptop,Electronica,970,4,Asia,3.44,Desconocido
+70,01/04/2024,Smartphone,Electronica,690,8,Sudamerica,25.8,Efectivo
+71,02/04/2024,"Televisor 32""",Electronica,310,6,Europa,21.68,Tarjeta de Crédito
+72,03/04/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,2.03,Desconocido
+73,04/04/2024,Lavadora,Electrodomestico,810,2,Asia,21.24,Cheque
+74,05/04/2024,"Televisor 42""",Electronica,400,2,Norteamerica,16.31,Efectivo
+75,06/04/2024,Smartphone,Electronica,700,5,Europa,2.45,Transferencia Bancaria
+76,07/04/2024,Refrigerador,Electrodomestico,1200,1,Sudamerica,13.75,Transferencia Bancaria
+77,08/04/2024,Laptop,Electronica,950,3,Asia,14.54,PayPal
+78,09/04/2024,Lavadora,Electrodomestico,,1,Norteamerica,4.97,Transferencia Bancaria
+79,10/04/2024,Lavadora,Electrodomestico,,3,Asia,28.37,Efectivo
+1,15/01/2024,"Televisor 42""",Electronica,-400,2,Norteamerica,25.5,Transferencia Bancaria
+2,16/01/2024,Smartphone,Electronica,-700,5,Europa,20.07,Tarjeta de Crédito
+3,17/01/2024,Refrigerador,Electrodomestico,-1200,1,Sudamerica,13.87,Transferencia Bancaria
+4,18/01/2024,Laptop,Electronica,950,3,Asia,12.35,Cheque
+5,19/01/2024,Lavadora,Electrodomestico,,1,Norteamerica,19.53,Tarjeta de Crédito
+6,20/01/2024,"Televisor 55""",Electronica,650,4,Europa,16.36,PayPal
+7,21/01/2024,Aspiradora,Electrodomestico,,10,Sudamerica,1.87,Cheque
+8,22/01/2024,Smartphone,Electronica,650,6,Norteamerica,15.38,Efectivo
+9,23/01/2024,Laptop,Electronica,1000,2,Asia,,Efectivo
+10,24/01/2024,Microondas,Electrodomestico,120,8,Europa,13.78,Efectivo
+11,25/01/2024,"Televisor 42""",Electronica,-450,2,Sudamerica,,Cheque
+12,26/01/2024,Lavadora,Electrodomestico,,3,Asia,23.59,Cheque
+13,27/01/2024,Smartphone,Electronica,750,7,Norteamerica,6.04,Cheque
+14,28/01/2024,Laptop,Electronica,850,1,Europa,7.76,Tarjeta de Crédito
+15,29/01/2024,Refrigerador,Electrodomestico,-1100,1,Sudamerica,4.94,Tarjeta de Crédito
+16,30/01/2024,Microondas,Electrodomestico,100,9,Asia,9.91,Efectivo
+17,31/01/2024,"Televisor 32""",Electronica,300,5,Norteamerica,22.7,Transferencia Bancaria
+18,01/02/2024,Tablet,Electronica,,4,Europa,15.58,Efectivo
+19,02/02/2024,Lavadora,Electrodomestico,750,2,Asia,6.15,PayPal
+20,03/02/2024,Refrigerador,Electrodomestico,,1,Norteamerica,26.33,Tarjeta de Crédito
+21,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,26.39,Cheque
+22,05/02/2024,Laptop,Electronica,1050,2,Europa,26.12,Tarjeta de Crédito
+23,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,7.16,Cheque
+24,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,13.54,PayPal
+25,08/02/2024,Tablet,Electronica,420,5,Sudamerica,29.55,PayPal
+26,09/02/2024,Smartphone,Electronica,780,7,Europa,23.16,Tarjeta de Crédito
+27,10/02/2024,Microondas,Electrodomestico,,9,Asia,0.82,Cheque
+28,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,1.96,PayPal
+29,12/02/2024,Refrigerador,Electrodomestico,-1250,1,Europa,13.92,Efectivo
+30,13/02/2024,Laptop,Electronica,970,4,Asia,27.28,Efectivo
+31,14/02/2024,Smartphone,Electronica,690,8,Sudamerica,16.16,Cheque
+32,15/02/2024,"Televisor 32""",Electronica,310,6,Europa,14.93,Tarjeta de Crédito
+33,16/02/2024,Aspiradora,Electrodomestico,155,7,Norteamerica,3.16,Desconocido
+34,17/02/2024,Lavadora,Electrodomestico,,2,Asia,19.7,Tarjeta de Crédito
+35,18/02/2024,Microondas,Electrodomestico,,10,Sudamerica,24.66,Efectivo
+36,04/02/2024,Smartphone,Electronica,680,6,Sudamerica,11.41,PayPal
+37,05/02/2024,Laptop,Electronica,1050,2,Europa,,Tarjeta de Crédito
+38,06/02/2024,Aspiradora,Electrodomestico,-160,8,Norteamerica,,Transferencia Bancaria
+39,07/02/2024,"Televisor 55""",Electronica,700,3,Asia,6.11,Cheque
+40,08/02/2024,Tablet,Electronica,420,5,Sudamerica,15.7,Cheque
+41,09/02/2024,Smartphone,Electronica,780,7,Europa,8.61,Transferencia Bancaria
+42,10/02/2024,Microondas,Electrodomestico,,9,Asia,23.79,Efectivo
+43,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,17.33,PayPal
+44,09/02/2024,Smartphone,Electronica,780,7,Europa,19.04,Cheque
+45,10/02/2024,Microondas,Electrodomestico,,9,Asia,23.94,Transferencia Bancaria
+46,11/02/2024,"Televisor 42""",Electronica,500,3,Norteamerica,11.88,Transferencia Bancaria
