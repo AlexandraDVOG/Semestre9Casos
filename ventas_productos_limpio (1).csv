@@ -1,0 +1,2101 @@
+ID_Venta,Producto,Categoria,Precio,Cantidad,Region,Descuento,Almacen,Metodo_Pago,Dia,Mes,Agno
+1,"Televisor 55""",Electronica,400,2,Asia,11.24,6,Efectivo,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,28.52,5,Efectivo,16,1,2024
+3,Refrigerador,Electronica,650,1,Sudamerica,21.96,7,Cheque,17,1,2024
+4,"Televisor 55""",Electronica,950,3,Asia,17.96,4,Cheque,18,1,2024
+5,Lavadora,Electronica,650,1,Norteamerica,4.68,3,Cheque,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,4.68,7,Efectivo,20,1,2024
+7,Aspiradora,Electrodomestico,650,10,Sudamerica,1.74,20,Transferencia Bancaria,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,25.99,4,PayPal,22,1,2024
+9,"Televisor 55""",Electronica,1000,2,Sudamerica,18.03,3,Transferencia Bancaria,23,1,2024
+10,Microondas,Electronica,650,8,Europa,21.24,6,Transferencia Bancaria,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,0.62,23,Efectivo,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,29.1,70,Transferencia Bancaria,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,24.97,5,Tarjeta de Credito,27,1,2024
+14,Laptop,Electronica,850,1,Asia,6.37,3,Cheque,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,5.45,4,Tarjeta de Credito,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,5.5,2,PayPal,30,1,2024
+17,"Televisor 55""",Electronica,650,5,Norteamerica,9.13,5,Cheque,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,15.74,6,Transferencia Bancaria,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,12.96,5,PayPal,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,8.74,7,Cheque,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,18.36,4,Transferencia Bancaria,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,4.18,3,Tarjeta de Credito,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,8.76,7,Cheque,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,10.99,20,Transferencia Bancaria,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,13.68,4,Tarjeta de Credito,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,23.56,3,PayPal,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,5.99,6,PayPal,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,15.43,23,Desconocido,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,17.77,70,PayPal,12,2,2024
+30,Laptop,Electronica,970,4,Asia,1.39,5,Efectivo,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,18.23,3,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,5.12,4,Cheque,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,1.95,2,Efectivo,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,28.47,5,Transferencia Bancaria,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,28.97,6,Transferencia Bancaria,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,24.25,5,PayPal,4,2,2024
+37,"Televisor 55""",Electronica,1050,2,Europa,14.93,7,Tarjeta de Credito,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,2.93,4,Transferencia Bancaria,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,20.53,3,Tarjeta de Credito,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,13.2,7,Cheque,8,2,2024
+41,"Televisor 55""",Electronica,780,7,Europa,3.66,20,Tarjeta de Credito,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,14.86,4,Cheque,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,1.03,3,Efectivo,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,27.28,6,Efectivo,9,2,2024
+45,Microondas,Electronica,543.11,9,Asia,7.76,23,PayPal,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,19.88,70,Transferencia Bancaria,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,9.35,5,PayPal,12,2,2024
+48,Laptop,Electronica,970,4,Asia,15.6,3,Cheque,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,16.4,4,PayPal,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,5.55,2,Tarjeta de Credito,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,29.09,5,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,23.25,6,Efectivo,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,28.18,5,Transferencia Bancaria,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,26.84,7,Cheque,16,3,2024
+55,Refrigerador,Electrodomestico,650,1,Sudamerica,17.94,4,Cheque,17,3,2024
+56,Laptop,Electronica,950,3,Asia,27.66,3,Tarjeta de Credito,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Asia,2.65,7,Transferencia Bancaria,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,5.88,20,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,1.36,4,Cheque,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,9.76,3,Cheque,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,11.66,6,Tarjeta de Credito,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,14.93,23,PayPal,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,24.86,70,Efectivo,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,10.7,5,Transferencia Bancaria,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,8.43,3,Cheque,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,16.28,4,Cheque,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,4.23,2,Efectivo,29,3,2024
+68,Refrigerador,Electrodomestico,650,1,Europa,24.07,5,PayPal,30,3,2024
+69,Laptop,Electronica,970,4,Asia,2.24,8,Cheque,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,29.61,2,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,23.17,3,Tarjeta de Credito,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,5.96,7,Desconocido,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,0.17,9,Transferencia Bancaria,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,24.46,3,Cheque,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,21.21,1,Efectivo,6,4,2024
+76,Refrigerador,Electrodomestico,650,1,Sudamerica,21.87,4,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,23.14,8,Transferencia Bancaria,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,2.22,6,Efectivo,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,10.75,7,Efectivo,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,3.48,2,Transferencia Bancaria,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,25.89,2,Tarjeta de Credito,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,18.7,5,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,9.93,1,PayPal,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,1.91,3,Cheque,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,9.33,1,Transferencia Bancaria,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,9.76,3,Transferencia Bancaria,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,21.89,8,Transferencia Bancaria,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,19.13,2,Tarjeta de Credito,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,26.62,3,Cheque,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,14.17,7,PayPal,25,1,2024
+12,Lavadora,Electronica,543.11,3,Asia,14.93,9,Efectivo,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,21.4,3,Efectivo,27,1,2024
+14,Laptop,Electronica,850,1,Europa,22.82,1,Transferencia Bancaria,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,16.84,4,Cheque,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,23.13,8,Tarjeta de Credito,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,14.81,6,Cheque,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,15.68,7,Cheque,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,12.83,2,Tarjeta de Credito,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,0.76,2,Transferencia Bancaria,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,3.24,5,Cheque,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,0.94,1,Efectivo,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,19.09,3,Tarjeta de Credito,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,9.43,1,PayPal,7,2,2024
+25,Tablet,Electronica,1000,5,Sudamerica,15.26,3,Transferencia Bancaria,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,27.23,1,Tarjeta de Credito,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,7.48,9,PayPal,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,12.31,5,PayPal,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,22.67,4,Cheque,12,2,2024
+30,Laptop,Electronica,970,4,Asia,6.86,2,Cheque,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,2.31,1,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,8.69,6,Tarjeta de Credito,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,4.84,2,Tarjeta de Credito,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,27.89,8,Transferencia Bancaria,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,24.24,3,Cheque,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,19,5,PayPal,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,26.14,7,Efectivo,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,24.11,9,Transferencia Bancaria,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,5.6,3,Tarjeta de Credito,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,26.78,1,Transferencia Bancaria,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,16.18,4,Transferencia Bancaria,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,24.22,8,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,26.88,1,Transferencia Bancaria,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,9.54,9,Efectivo,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,3.3,5,Cheque,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,6.84,4,PayPal,11,2,2024
+47,Refrigerador,Electrodomestico,650,1,Europa,12.81,2,Transferencia Bancaria,12,2,2024
+48,Laptop,Electronica,970,4,Asia,24.54,1,Transferencia Bancaria,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,25.82,6,Transferencia Bancaria,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,0.21,2,Cheque,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,15.32,8,Tarjeta de Credito,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,12.52,3,Tarjeta de Credito,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,6.66,5,Efectivo,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,14.93,7,Tarjeta de Credito,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,10.13,9,Transferencia Bancaria,17,3,2024
+56,Laptop,Electronica,950,3,Asia,28.29,3,Transferencia Bancaria,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,9.7,1,Transferencia Bancaria,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,15.56,4,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,21.09,8,Transferencia Bancaria,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,10.91,1,Tarjeta de Credito,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,29.15,9,Cheque,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,28.87,5,Cheque,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,7.55,4,PayPal,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,14.92,2,Tarjeta de Credito,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,9.03,1,Transferencia Bancaria,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,8.55,6,Cheque,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,1.11,2,Tarjeta de Credito,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,18.29,8,Cheque,30,3,2024
+69,Laptop,Electronica,970,4,Asia,15.08,3,Transferencia Bancaria,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,1.54,5,Cheque,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,8.36,7,PayPal,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,27.25,9,PayPal,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,7.19,3,Cheque,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,4.35,1,Tarjeta de Credito,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,14.68,4,Tarjeta de Credito,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,29.57,8,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,7.26,1,Cheque,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,20.16,9,Tarjeta de Credito,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,22.85,5,Transferencia Bancaria,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,7.13,4,PayPal,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,21.85,2,Transferencia Bancaria,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,11.03,1,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,18.97,6,Transferencia Bancaria,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,19.01,2,Tarjeta de Credito,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,16.07,8,Cheque,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,2.71,3,Transferencia Bancaria,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,25.06,5,Cheque,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,9.62,7,Cheque,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,5.6,9,Desconocido,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,1.22,3,Tarjeta de Credito,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,17.73,1,PayPal,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,20.33,4,Tarjeta de Credito,27,1,2024
+14,Laptop,Electronica,850,1,Europa,0.5,8,PayPal,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,15.36,10,Tarjeta de Credito,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,6.79,6,Desconocido,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,19.36,2,Transferencia Bancaria,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,5.23,8,Transferencia Bancaria,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,20.73,2,Efectivo,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,11.6,3,PayPal,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,28.1,7,PayPal,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,4.13,9,PayPal,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,10.23,3,Cheque,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,3.4,1,PayPal,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,27.74,4,Transferencia Bancaria,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,26.32,8,Cheque,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,7.74,6,Desconocido,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,19.8,7,PayPal,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,24.52,2,PayPal,12,2,2024
+30,Laptop,Electronica,970,4,Asia,16.66,2,Tarjeta de Credito,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,15.89,5,PayPal,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,7.26,1,Tarjeta de Credito,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,2.79,3,Cheque,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,26.92,1,Transferencia Bancaria,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,27.01,3,Tarjeta de Credito,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,18.99,2,Efectivo,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,10.17,5,Tarjeta de Credito,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,10.48,1,PayPal,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,21.78,3,Cheque,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,26.91,1,Cheque,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,26.61,4,Tarjeta de Credito,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,23.4,10,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,19.26,6,Efectivo,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,14.93,2,Cheque,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,4.85,8,PayPal,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,26.96,2,PayPal,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,18.19,3,Transferencia Bancaria,12,2,2024
+48,Laptop,Electronica,970,4,Asia,0.28,7,Cheque,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,3.04,1,Tarjeta de Credito,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,19.91,1,PayPal,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,0.15,9,Transferencia Bancaria,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,4.82,5,Cheque,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,16.46,4,Cheque,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,20.76,2,Cheque,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,19.56,1,Cheque,17,3,2024
+56,Laptop,Electronica,950,3,Asia,6.73,6,Cheque,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,21.37,2,PayPal,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,7.12,8,Transferencia Bancaria,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,9.76,3,Cheque,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,22.39,5,Efectivo,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,19.49,7,Efectivo,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,25.48,9,Transferencia Bancaria,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,19.73,3,Tarjeta de Credito,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,17.05,1,Tarjeta de Credito,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,2.81,4,Tarjeta de Credito,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,11.03,8,Efectivo,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,7.96,6,Tarjeta de Credito,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,7.32,7,PayPal,30,3,2024
+69,Laptop,Electronica,970,4,Asia,29.19,2,Cheque,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,11.79,10,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,26.76,6,Transferencia Bancaria,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,18.93,2,Transferencia Bancaria,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,23.84,8,Cheque,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,15.08,3,Efectivo,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,17.31,5,Tarjeta de Credito,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,14.78,7,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,14.93,9,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,21.67,3,PayPal,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,8.42,7,Tarjeta de Credito,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,0.73,9,Transferencia Bancaria,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,19.36,3,Transferencia Bancaria,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,5.31,1,PayPal,17,1,2024
+4,Laptop,Electronica,950,3,Asia,28.21,4,Cheque,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,28.62,8,Tarjeta de Credito,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,27.45,6,PayPal,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,11.1,7,PayPal,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,0.46,2,Desconocido,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,27.85,2,Tarjeta de Credito,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,12.85,5,Desconocido,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,29,1,Cheque,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,28.91,3,Cheque,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,25.59,1,Tarjeta de Credito,27,1,2024
+14,Laptop,Electronica,850,1,Europa,8.83,4,Efectivo,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,14.93,10,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,25.53,6,PayPal,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,9.51,2,Tarjeta de Credito,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,5.08,8,Efectivo,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,16.7,2,Transferencia Bancaria,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,28.08,3,Tarjeta de Credito,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,20.88,7,Tarjeta de Credito,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,17.1,9,PayPal,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,2.92,3,Tarjeta de Credito,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,18.45,1,Tarjeta de Credito,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,29.7,4,Tarjeta de Credito,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,4.2,8,PayPal,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,15.55,10,Transferencia Bancaria,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,26.32,6,Transferencia Bancaria,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,22.22,2,Tarjeta de Credito,12,2,2024
+30,Laptop,Electronica,970,4,Asia,20.91,8,PayPal,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,21.07,2,Transferencia Bancaria,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,10.78,3,Transferencia Bancaria,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,8.81,7,Transferencia Bancaria,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,24.28,9,PayPal,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,24.3,3,PayPal,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,26.01,1,Tarjeta de Credito,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,27.4,4,Cheque,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,15.34,8,Transferencia Bancaria,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,15.05,6,Cheque,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,23.95,7,PayPal,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,19.5,2,PayPal,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,21.06,2,PayPal,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,23.87,5,Cheque,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,26.7,1,PayPal,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,10.14,3,Tarjeta de Credito,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,11.27,1,PayPal,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,2.82,3,Efectivo,12,2,2024
+48,Laptop,Electronica,970,4,Asia,17.35,2,Cheque,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,1.08,5,Efectivo,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,13.97,1,PayPal,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,16.28,3,Tarjeta de Credito,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,8.6,1,Transferencia Bancaria,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,17.72,4,PayPal,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,0.92,10,Tarjeta de Credito,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,1.12,6,Cheque,17,3,2024
+56,Laptop,Electronica,950,3,Asia,24.68,2,Efectivo,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,10.81,8,Desconocido,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,3.81,2,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,15.67,3,Desconocido,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,23.1,7,Tarjeta de Credito,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,6.47,1,Cheque,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,18.69,1,Efectivo,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,2.56,9,PayPal,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,1.55,5,Transferencia Bancaria,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,15.94,4,Cheque,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,16.22,2,Cheque,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,19.12,1,Tarjeta de Credito,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,21.78,6,Tarjeta de Credito,30,3,2024
+69,Laptop,Electronica,970,4,Asia,29.28,2,Cheque,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,15.49,8,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,9.69,3,Transferencia Bancaria,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,14.93,5,Tarjeta de Credito,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,8.12,7,Efectivo,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,13.17,9,PayPal,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,2.35,3,Tarjeta de Credito,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.76,1,Efectivo,7,4,2024
+77,Laptop,Electronica,950,3,Asia,28.88,4,Efectivo,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,14.93,8,Transferencia Bancaria,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,20.88,6,Transferencia Bancaria,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,12.27,7,PayPal,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,5.2,2,Efectivo,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,4.69,10,Efectivo,17,1,2024
+4,Laptop,Electronica,950,3,Asia,7.51,6,Transferencia Bancaria,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,16.48,2,Tarjeta de Credito,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,21.44,8,Tarjeta de Credito,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,19.81,3,Cheque,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,8.4,5,Transferencia Bancaria,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,28.65,7,Cheque,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,22.14,9,Transferencia Bancaria,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,16.63,3,PayPal,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,18.35,7,Efectivo,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,12.59,9,PayPal,27,1,2024
+14,Laptop,Electronica,850,1,Europa,7.43,3,Transferencia Bancaria,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,10.68,1,Efectivo,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,22.74,4,Tarjeta de Credito,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,0.43,8,Tarjeta de Credito,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,3.48,6,Cheque,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,1.38,7,Transferencia Bancaria,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,1.22,2,Transferencia Bancaria,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,25.66,2,Tarjeta de Credito,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,21.11,5,PayPal,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,14.23,1,Efectivo,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,2.94,3,PayPal,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,14.75,1,PayPal,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,14.2,4,Tarjeta de Credito,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,5.2,10,Tarjeta de Credito,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,13.02,6,Tarjeta de Credito,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,11.96,2,Cheque,12,2,2024
+30,Laptop,Electronica,970,4,Asia,18.48,8,PayPal,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,19.05,2,Transferencia Bancaria,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,1.36,3,Efectivo,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,11.24,7,Cheque,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,18.78,9,Transferencia Bancaria,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,15.09,3,PayPal,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,25.69,1,Tarjeta de Credito,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,19.76,4,PayPal,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,4.89,8,Efectivo,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,2.12,6,Cheque,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,19.27,5,Cheque,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,0.8,7,Efectivo,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,17.57,4,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,28.21,3,Transferencia Bancaria,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,17.26,7,Cheque,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,11.65,20,Cheque,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,14.93,4,Tarjeta de Credito,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,13.75,3,Transferencia Bancaria,12,2,2024
+48,Laptop,Electronica,970,4,Asia,16.37,6,Efectivo,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,28.24,23,Transferencia Bancaria,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,11.58,70,Tarjeta de Credito,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,28.84,5,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,27.16,3,Cheque,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,5.87,4,Tarjeta de Credito,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,2.08,2,Efectivo,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,3.02,5,Cheque,17,3,2024
+56,Laptop,Electronica,950,3,Asia,0.55,6,PayPal,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,2.83,5,Cheque,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,20.49,7,PayPal,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,2.14,4,Tarjeta de Credito,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,9.57,3,Tarjeta de Credito,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,25.35,7,Cheque,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,0.7,20,Transferencia Bancaria,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,24.43,4,PayPal,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,8.46,3,Efectivo,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,3.54,6,Cheque,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,20.9,23,Efectivo,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,18.87,70,Cheque,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,26.32,5,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,14.93,3,Transferencia Bancaria,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,24.1,4,Transferencia Bancaria,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,8.46,2,Transferencia Bancaria,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,5.32,5,Tarjeta de Credito,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,22.52,6,Tarjeta de Credito,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,24.21,5,PayPal,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,29.72,7,Efectivo,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,12.38,4,Cheque,7,4,2024
+77,Laptop,Electronica,950,3,Asia,11.16,3,Cheque,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,23.29,7,Tarjeta de Credito,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,14.93,20,Cheque,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,27.92,4,Tarjeta de Credito,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,25.75,3,PayPal,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,12.87,6,Efectivo,17,1,2024
+4,Laptop,Electronica,950,3,Asia,22.53,23,PayPal,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,22.64,70,Transferencia Bancaria,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,3.09,5,Transferencia Bancaria,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,27.08,3,Transferencia Bancaria,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,15.16,4,PayPal,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,24.79,2,Cheque,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,9.6,5,Efectivo,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,26.87,6,Transferencia Bancaria,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,11.68,5,Transferencia Bancaria,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,0.33,7,Transferencia Bancaria,27,1,2024
+14,Laptop,Electronica,850,1,Europa,27.16,4,Efectivo,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,2.74,3,Transferencia Bancaria,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,9.58,7,Efectivo,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,28.5,20,Transferencia Bancaria,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,28.52,4,PayPal,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,17.2,3,PayPal,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,18.96,6,Efectivo,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,13.45,23,PayPal,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,8.8,70,Efectivo,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,9.86,5,PayPal,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,20.18,3,PayPal,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,22.57,4,Efectivo,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,23.75,2,Cheque,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,23.69,5,PayPal,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,2.74,8,Transferencia Bancaria,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,14.83,2,Cheque,12,2,2024
+30,Laptop,Electronica,970,4,Asia,1.73,3,Desconocido,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,16.49,7,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,13.25,9,Tarjeta de Credito,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,26.63,3,Tarjeta de Credito,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,10.53,1,PayPal,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,3.51,4,PayPal,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,4.29,8,Transferencia Bancaria,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,22.85,6,Cheque,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,18.55,7,Tarjeta de Credito,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,3.03,2,PayPal,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,2.52,2,Cheque,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,21.03,5,PayPal,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,2.18,1,PayPal,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,24.66,3,Tarjeta de Credito,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,21.19,1,Tarjeta de Credito,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,2.44,3,PayPal,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,2.55,8,Efectivo,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,29.6,2,PayPal,12,2,2024
+48,Laptop,Electronica,970,4,Asia,11.23,3,PayPal,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,11.12,7,Transferencia Bancaria,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,24.38,9,Transferencia Bancaria,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,28.42,3,Transferencia Bancaria,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,29.58,1,Efectivo,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,22.6,4,Efectivo,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,11.29,8,PayPal,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,2.51,6,Transferencia Bancaria,17,3,2024
+56,Laptop,Electronica,950,3,Asia,23.31,7,Desconocido,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,16.75,2,Tarjeta de Credito,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,12.73,2,PayPal,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,27.19,5,Cheque,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,14.93,1,PayPal,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,14.78,3,Cheque,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,0.34,1,Transferencia Bancaria,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,14.06,3,Cheque,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,1.69,1,Transferencia Bancaria,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,3.56,9,Tarjeta de Credito,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,3.53,5,Cheque,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,19.48,4,PayPal,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,22.38,2,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,17.5,1,PayPal,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,28.87,6,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,11.25,2,Transferencia Bancaria,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,8.57,8,Cheque,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,26.06,3,Transferencia Bancaria,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,6.71,5,PayPal,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,28.9,7,Tarjeta de Credito,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.36,9,Transferencia Bancaria,7,4,2024
+77,Laptop,Electronica,950,3,Asia,29.1,3,Cheque,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,1.29,1,Efectivo,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,26.73,4,Tarjeta de Credito,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,15.83,8,Efectivo,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,29.79,1,Transferencia Bancaria,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,2.21,9,PayPal,17,1,2024
+4,Laptop,Electronica,950,3,Asia,16.62,5,PayPal,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,29.08,4,Cheque,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,15.69,2,PayPal,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,18.88,1,Tarjeta de Credito,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,20.87,6,Desconocido,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,13.64,2,Cheque,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,18.83,8,Transferencia Bancaria,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,17.53,3,Transferencia Bancaria,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,27.03,5,PayPal,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,1.36,7,Efectivo,27,1,2024
+14,Laptop,Electronica,850,1,Europa,8.43,9,Transferencia Bancaria,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,28.51,3,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,26.71,1,Cheque,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,13.67,4,PayPal,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,18.6,8,Transferencia Bancaria,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,8.32,1,Cheque,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,5.64,9,PayPal,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,13.91,5,Tarjeta de Credito,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,10.6,4,Cheque,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,17.51,2,Tarjeta de Credito,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,2.33,1,Efectivo,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,29.23,6,Cheque,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,29.59,2,Tarjeta de Credito,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,20.94,8,Transferencia Bancaria,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,16.08,3,Transferencia Bancaria,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,9.29,5,Efectivo,12,2,2024
+30,Laptop,Electronica,970,4,Asia,24.41,7,Cheque,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,20.54,9,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,4.88,3,Cheque,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,27.33,1,Efectivo,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,24.68,4,Cheque,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,28.49,8,Transferencia Bancaria,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,21.77,1,Tarjeta de Credito,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,18.4,9,Transferencia Bancaria,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,12.55,5,Transferencia Bancaria,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,27.98,4,Desconocido,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,25.98,2,Transferencia Bancaria,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,1.36,1,Efectivo,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,0.79,6,Tarjeta de Credito,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,11.29,2,Transferencia Bancaria,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,24.32,8,PayPal,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,29.62,3,Transferencia Bancaria,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,4.51,5,Efectivo,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,17.82,7,Cheque,12,2,2024
+48,Laptop,Electronica,970,4,Asia,11.43,9,Transferencia Bancaria,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,29.1,3,Cheque,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,25.26,1,PayPal,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,25.15,4,Transferencia Bancaria,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,14.06,8,Tarjeta de Credito,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,12.44,10,Cheque,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,8.2,6,PayPal,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,1.69,2,Tarjeta de Credito,17,3,2024
+56,Laptop,Electronica,950,3,Asia,25.94,8,Tarjeta de Credito,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,24.39,2,Tarjeta de Credito,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,29.99,3,Tarjeta de Credito,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,29.9,7,Transferencia Bancaria,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,16.66,9,Transferencia Bancaria,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,23.07,3,Transferencia Bancaria,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,28.34,1,PayPal,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,25.49,4,PayPal,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,7.42,8,PayPal,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,13.52,6,Efectivo,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,3.87,7,PayPal,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,28.62,2,Transferencia Bancaria,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,18.19,2,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,6.86,5,Efectivo,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,20.15,1,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,18.54,3,PayPal,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,10.74,1,Cheque,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,3.41,3,Efectivo,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,20.15,2,Desconocido,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,15.61,5,Transferencia Bancaria,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,23.17,1,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,15.6,3,Transferencia Bancaria,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,25.57,1,Transferencia Bancaria,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,16.56,4,Efectivo,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,16.83,10,Efectivo,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,26.3,6,Tarjeta de Credito,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,12.1,2,Transferencia Bancaria,17,1,2024
+4,Laptop,Electronica,950,3,Asia,4.02,8,Tarjeta de Credito,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,0.86,2,Cheque,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,22.65,3,Tarjeta de Credito,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,18.61,7,PayPal,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,14.93,1,Tarjeta de Credito,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,6.39,1,PayPal,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,4.09,9,PayPal,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,0.44,5,PayPal,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,10.52,4,Cheque,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,17.7,2,Tarjeta de Credito,27,1,2024
+14,Laptop,Electronica,850,1,Europa,11.77,1,Tarjeta de Credito,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,13.12,6,Cheque,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,27.12,2,Transferencia Bancaria,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,10.45,8,Efectivo,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,15.42,3,Tarjeta de Credito,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,23.51,5,Efectivo,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,11.9,7,Cheque,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,18.66,9,Transferencia Bancaria,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,25.87,3,Transferencia Bancaria,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,28.49,1,Transferencia Bancaria,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,14.93,4,Cheque,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,27.8,8,PayPal,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,14.76,6,PayPal,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,7.75,7,Efectivo,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,13.77,2,PayPal,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,29.4,10,PayPal,12,2,2024
+30,Laptop,Electronica,970,4,Asia,14.78,6,Transferencia Bancaria,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,9.86,2,Transferencia Bancaria,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,19,8,Efectivo,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,7.2,3,Tarjeta de Credito,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,2.28,5,Efectivo,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,3.87,7,Efectivo,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,3.84,9,Cheque,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,4.56,3,Cheque,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,4.16,7,Efectivo,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,19.23,9,Efectivo,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,5.46,3,Efectivo,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,10.37,1,PayPal,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,26.9,4,Cheque,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,14.22,8,Efectivo,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,20.03,6,Transferencia Bancaria,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,5.17,7,Transferencia Bancaria,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,5.77,2,PayPal,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,1.23,2,PayPal,12,2,2024
+48,Laptop,Electronica,970,4,Asia,5.07,5,Tarjeta de Credito,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,8.36,1,Tarjeta de Credito,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,5.31,3,Tarjeta de Credito,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,2.66,1,PayPal,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,3.62,4,PayPal,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,13.82,10,PayPal,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,6.19,6,Transferencia Bancaria,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,10.93,2,PayPal,17,3,2024
+56,Laptop,Electronica,950,3,Asia,15.1,8,Transferencia Bancaria,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,20.71,2,Tarjeta de Credito,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,1.18,3,Tarjeta de Credito,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,23.98,7,Tarjeta de Credito,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,18.84,9,Efectivo,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,2.45,3,Efectivo,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,26.21,1,Cheque,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,27.63,4,Cheque,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,1.83,8,Cheque,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,8.31,10,Efectivo,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,24.19,6,Efectivo,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,22.45,2,Cheque,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,5.54,8,Cheque,30,3,2024
+69,Laptop,Electronica,970,4,Asia,6.28,2,PayPal,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,11.11,3,Cheque,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,14.54,7,PayPal,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,18.55,9,Transferencia Bancaria,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,11.07,3,Efectivo,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,13.88,1,Cheque,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,22.42,4,Efectivo,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,1.1,8,Efectivo,7,4,2024
+77,Laptop,Electronica,950,3,Asia,7.57,6,Efectivo,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,21.4,7,Transferencia Bancaria,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,26.86,2,Tarjeta de Credito,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,15.35,2,Cheque,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,15.96,5,Tarjeta de Credito,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,3.22,1,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,13.42,3,Tarjeta de Credito,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,14.93,1,Efectivo,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,7.27,3,PayPal,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,8.08,2,Efectivo,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,11.32,5,Efectivo,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,0.6,1,Tarjeta de Credito,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,9.66,3,Efectivo,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,6.34,1,Tarjeta de Credito,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,9.82,4,PayPal,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,3.59,10,Cheque,27,1,2024
+14,Laptop,Electronica,850,1,Europa,26.72,6,Tarjeta de Credito,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,17.81,2,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,20.37,8,Cheque,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,23.68,2,Transferencia Bancaria,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,14.95,3,Tarjeta de Credito,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,2.61,7,Tarjeta de Credito,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,16.11,1,Transferencia Bancaria,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,17.61,1,Transferencia Bancaria,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,22.36,9,Tarjeta de Credito,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,12.95,5,Transferencia Bancaria,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,3.83,4,Efectivo,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,8.51,2,Cheque,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,10.89,1,Cheque,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,19.38,6,Cheque,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,17.12,2,Efectivo,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,10.68,8,Transferencia Bancaria,12,2,2024
+30,Laptop,Electronica,970,4,Asia,29.6,3,PayPal,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,18.17,5,Transferencia Bancaria,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,7.12,7,Tarjeta de Credito,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,3.05,9,Cheque,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,4.59,3,Transferencia Bancaria,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,14.93,1,PayPal,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,4.82,4,Tarjeta de Credito,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,5.6,8,Efectivo,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,8.55,6,Efectivo,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,5.2,7,PayPal,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,14.93,2,Tarjeta de Credito,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,2.41,10,Cheque,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,15.74,6,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,12.31,2,Tarjeta de Credito,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,29.47,8,Efectivo,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,3.36,3,PayPal,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,11.94,5,PayPal,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,29.08,7,Transferencia Bancaria,12,2,2024
+48,Laptop,Electronica,970,4,Asia,25.97,9,PayPal,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,24.51,3,PayPal,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,7.74,7,Tarjeta de Credito,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,5.13,9,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,20.06,3,Transferencia Bancaria,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,27.88,1,Desconocido,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,16.7,4,Cheque,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,17.15,8,Tarjeta de Credito,17,3,2024
+56,Laptop,Electronica,950,3,Asia,8.4,6,Tarjeta de Credito,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,23.08,7,PayPal,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,5.61,2,Cheque,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,9.71,2,Transferencia Bancaria,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,12.76,5,Transferencia Bancaria,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,15.23,1,Cheque,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,7.27,3,PayPal,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,3.45,1,Efectivo,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,18.32,4,Tarjeta de Credito,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,8.66,10,PayPal,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,17.44,6,Cheque,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,4.63,2,Tarjeta de Credito,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,14.43,8,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,15.98,2,Efectivo,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,1.55,3,Transferencia Bancaria,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,10.1,7,Cheque,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,4.03,9,Tarjeta de Credito,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,1.9,3,Cheque,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,29.7,1,Tarjeta de Credito,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,9.67,4,PayPal,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,24.3,8,Efectivo,7,4,2024
+77,Laptop,Electronica,950,3,Asia,7.64,6,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,20.45,5,PayPal,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,22.81,7,Cheque,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,17.87,4,Efectivo,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,14.15,3,Tarjeta de Credito,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,12.36,7,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,10.47,20,Transferencia Bancaria,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,14.93,4,Tarjeta de Credito,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,24.92,3,Cheque,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,28.95,6,PayPal,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,3.73,23,PayPal,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,21.93,70,PayPal,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,28.15,5,Efectivo,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,5.44,3,Tarjeta de Credito,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,1.99,4,Cheque,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,22.23,2,Efectivo,27,1,2024
+14,Laptop,Electronica,850,1,Europa,17.23,5,Transferencia Bancaria,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,25.25,6,Cheque,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,4.19,5,Cheque,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,23.86,7,Cheque,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,6.05,4,Desconocido,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,4.91,3,Cheque,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,4.93,7,Tarjeta de Credito,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,24.44,20,Cheque,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,19.96,4,PayPal,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,15.69,3,Desconocido,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,10.76,6,Transferencia Bancaria,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,26.32,23,Transferencia Bancaria,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,11.77,70,PayPal,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,24.5,5,Tarjeta de Credito,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,13.17,3,Tarjeta de Credito,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,11.31,4,Efectivo,12,2,2024
+30,Laptop,Electronica,970,4,Asia,13.88,2,PayPal,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,9.04,5,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,22.43,6,PayPal,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,15.08,5,Efectivo,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,6.97,7,PayPal,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,26.99,4,Desconocido,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,11.52,3,Efectivo,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,16.31,7,Tarjeta de Credito,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,27.19,20,Cheque,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,18.73,4,Efectivo,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,3.51,3,Transferencia Bancaria,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,28.19,6,Tarjeta de Credito,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,18.83,23,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,10.05,70,Tarjeta de Credito,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,4.18,5,Cheque,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,23.82,3,Cheque,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,18.6,4,PayPal,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,16,2,Transferencia Bancaria,12,2,2024
+48,Laptop,Electronica,970,4,Asia,26.82,5,Tarjeta de Credito,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,23.66,6,Cheque,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,4.55,5,Efectivo,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,9.35,7,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,7.45,4,Efectivo,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,22.32,3,Tarjeta de Credito,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,1.01,7,Cheque,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,14.93,20,Cheque,17,3,2024
+56,Laptop,Electronica,950,3,Asia,22.87,4,Tarjeta de Credito,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,26.3,3,Cheque,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,10.26,6,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,24.64,23,Cheque,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,3.32,70,Transferencia Bancaria,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,25.39,5,PayPal,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,3.82,3,Efectivo,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,11.92,4,Transferencia Bancaria,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,23.92,2,Tarjeta de Credito,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,4.5,5,Efectivo,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,6.88,8,PayPal,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,21.67,2,PayPal,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,21.6,3,Tarjeta de Credito,30,3,2024
+69,Laptop,Electronica,970,4,Asia,19.23,7,Tarjeta de Credito,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,20.82,9,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,16.28,3,Cheque,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,7.55,1,Tarjeta de Credito,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,10.37,4,Cheque,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,5.45,8,Transferencia Bancaria,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,27.25,6,PayPal,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,17.5,7,Cheque,7,4,2024
+77,Laptop,Electronica,950,3,Asia,12.03,2,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,14.93,2,Cheque,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,28.42,5,Transferencia Bancaria,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,4.6,1,Tarjeta de Credito,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,17.59,3,Transferencia Bancaria,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,15.18,1,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,18.34,3,Tarjeta de Credito,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,0.54,8,PayPal,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,26.16,2,Transferencia Bancaria,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,27.96,3,Cheque,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,16.95,7,Transferencia Bancaria,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,20.9,9,PayPal,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,27.67,3,Desconocido,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,21.22,1,PayPal,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,4.58,4,Desconocido,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,17.29,8,Efectivo,27,1,2024
+14,Laptop,Electronica,850,1,Europa,18.2,6,Cheque,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,12.72,7,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,22.09,2,Cheque,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,14.93,2,Cheque,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,27.77,5,Efectivo,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,13.53,1,Cheque,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,3.4,3,Efectivo,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,29.55,1,Tarjeta de Credito,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,25.17,3,PayPal,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,3.74,1,Cheque,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,27.63,9,Efectivo,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,26.1,5,Transferencia Bancaria,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,15.57,4,Cheque,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,17.74,2,Tarjeta de Credito,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,11.97,1,Tarjeta de Credito,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,1.64,6,Transferencia Bancaria,12,2,2024
+30,Laptop,Electronica,970,4,Asia,10.06,2,Efectivo,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,14.93,8,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,0.14,3,Efectivo,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,10,5,Tarjeta de Credito,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,11.95,7,Efectivo,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,16.12,9,Tarjeta de Credito,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,27.6,3,Efectivo,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,10.39,1,Desconocido,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,10.41,4,PayPal,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,22.13,8,Transferencia Bancaria,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,13.57,1,Transferencia Bancaria,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,6.74,9,PayPal,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,13.57,5,PayPal,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,4.23,4,Cheque,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,5.29,2,Cheque,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,14.95,1,Transferencia Bancaria,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,12.57,6,Transferencia Bancaria,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,27.45,2,Tarjeta de Credito,12,2,2024
+48,Laptop,Electronica,970,4,Asia,10.87,8,Tarjeta de Credito,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,17.42,3,Cheque,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,18.97,5,Cheque,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,0.39,7,Desconocido,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,19.91,9,Tarjeta de Credito,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,5.34,3,Efectivo,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,28.83,1,Efectivo,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,4.46,4,Tarjeta de Credito,17,3,2024
+56,Laptop,Electronica,950,3,Asia,12.44,8,Efectivo,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,2.56,1,PayPal,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,29.91,9,Cheque,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,15.07,5,Cheque,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,17.86,4,Tarjeta de Credito,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,2.01,2,Desconocido,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,22.5,1,Tarjeta de Credito,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,6.3,6,Efectivo,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,26.94,2,Transferencia Bancaria,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,6.15,8,Efectivo,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,5.72,3,PayPal,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,1.1,5,Efectivo,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,14.16,7,PayPal,30,3,2024
+69,Laptop,Electronica,970,4,Asia,16.95,9,PayPal,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,1.97,3,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,23.27,1,Efectivo,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,13.6,4,PayPal,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,15.73,8,Transferencia Bancaria,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,13.22,1,PayPal,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,12.02,9,Cheque,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,14.93,5,PayPal,7,4,2024
+77,Laptop,Electronica,950,3,Asia,4.66,4,Transferencia Bancaria,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,5.46,2,Cheque,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,25.85,1,Tarjeta de Credito,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,28.38,6,Tarjeta de Credito,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,11.2,2,Transferencia Bancaria,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,8.12,8,PayPal,17,1,2024
+4,Laptop,Electronica,950,3,Asia,19.32,3,Efectivo,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,12.26,5,Transferencia Bancaria,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,0.76,7,Cheque,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,4.68,9,Cheque,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,21.48,3,Tarjeta de Credito,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,19.77,1,Cheque,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,0.81,4,Transferencia Bancaria,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,6.66,8,Cheque,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,6.93,10,Transferencia Bancaria,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,20.16,6,Desconocido,27,1,2024
+14,Laptop,Electronica,850,1,Europa,0.59,2,Tarjeta de Credito,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,3.12,8,Cheque,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,24,2,Transferencia Bancaria,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,5.36,3,PayPal,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,19.58,7,Tarjeta de Credito,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,7.15,9,Efectivo,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,2.98,3,Transferencia Bancaria,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,7.3,1,Efectivo,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,21.67,4,Efectivo,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,25.67,8,Cheque,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,24.91,6,Cheque,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,11.92,7,Transferencia Bancaria,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,20.04,2,PayPal,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,6.15,2,Transferencia Bancaria,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,8.79,5,PayPal,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,26.89,1,Efectivo,12,2,2024
+30,Laptop,Electronica,970,4,Asia,0.39,3,Tarjeta de Credito,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,14.93,1,Transferencia Bancaria,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,6.24,3,Transferencia Bancaria,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,0.8,2,PayPal,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,5.44,5,Efectivo,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,17.49,1,Efectivo,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,12.64,3,PayPal,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,14.93,1,Efectivo,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,24.52,4,Cheque,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,10.25,10,Tarjeta de Credito,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,7.78,6,Transferencia Bancaria,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,11.39,2,Tarjeta de Credito,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,17.71,8,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,8.04,2,Cheque,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,18.72,3,Efectivo,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,12.28,7,PayPal,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,16.56,1,Cheque,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,13.08,1,Tarjeta de Credito,12,2,2024
+48,Laptop,Electronica,970,4,Asia,8.83,9,PayPal,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,28.45,5,Efectivo,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,22.91,4,Cheque,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,4.2,2,PayPal,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,26.05,1,Cheque,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,14.62,6,Cheque,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,26.84,2,Efectivo,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,24,8,Desconocido,17,3,2024
+56,Laptop,Electronica,950,3,Asia,12.76,3,PayPal,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,0.67,5,Efectivo,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,8.06,7,Cheque,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,16.25,9,Efectivo,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,19,3,Transferencia Bancaria,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,7.74,1,PayPal,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,4.18,4,Transferencia Bancaria,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,25.05,8,Tarjeta de Credito,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,29.53,6,PayPal,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,15.77,7,Transferencia Bancaria,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,5.15,2,Desconocido,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,8.17,10,PayPal,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,0.55,6,PayPal,30,3,2024
+69,Laptop,Electronica,970,4,Asia,27.43,2,Efectivo,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,3.53,8,Cheque,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,17.3,3,Tarjeta de Credito,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,8.22,5,Transferencia Bancaria,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,16.63,7,Efectivo,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,19.54,9,Transferencia Bancaria,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,24.89,3,Tarjeta de Credito,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,6.19,7,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,0.33,9,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,4.11,3,Tarjeta de Credito,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,27,1,Transferencia Bancaria,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,26.22,4,Cheque,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,17.92,8,Cheque,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,18.02,6,PayPal,17,1,2024
+4,Laptop,Electronica,950,3,Asia,19.95,7,Transferencia Bancaria,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,5.26,2,Transferencia Bancaria,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,27.43,2,Tarjeta de Credito,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,12.56,5,Transferencia Bancaria,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,11.49,1,Efectivo,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,15.57,3,Tarjeta de Credito,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,1.41,1,Efectivo,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,4.99,4,PayPal,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,22.14,10,Cheque,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,2.48,6,PayPal,27,1,2024
+14,Laptop,Electronica,850,1,Europa,18.09,2,Cheque,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,7.36,8,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,11.68,2,Transferencia Bancaria,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,8.66,3,Efectivo,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,10.67,7,Desconocido,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,21.57,9,Tarjeta de Credito,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,8.91,3,Efectivo,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,16.99,1,Tarjeta de Credito,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,14.28,4,Efectivo,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,19.91,8,Efectivo,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,28.1,10,Desconocido,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,21.98,6,Cheque,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,6.45,2,Cheque,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,0.94,8,Efectivo,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,7.87,2,Transferencia Bancaria,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,14.93,3,Desconocido,12,2,2024
+30,Laptop,Electronica,970,4,Asia,1.54,7,Tarjeta de Credito,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,14.89,9,Tarjeta de Credito,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,17.91,3,PayPal,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,10.03,1,Efectivo,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,23.13,4,Tarjeta de Credito,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,3.2,8,Tarjeta de Credito,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,2.25,6,Efectivo,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,21.85,7,PayPal,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,14.86,2,Tarjeta de Credito,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,20.65,2,Desconocido,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,13.04,5,Cheque,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,7.39,1,PayPal,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,24.57,3,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,23.98,1,Transferencia Bancaria,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,20.84,3,PayPal,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,8.16,2,Transferencia Bancaria,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,17.71,5,Cheque,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,10.83,1,Efectivo,12,2,2024
+48,Laptop,Electronica,970,4,Asia,2.75,3,Transferencia Bancaria,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,27.52,1,Transferencia Bancaria,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,14.93,4,PayPal,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,28.51,10,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,13.38,6,Efectivo,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,5.55,2,PayPal,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,16.26,8,PayPal,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,26.19,2,Cheque,17,3,2024
+56,Laptop,Electronica,950,3,Asia,21.97,3,Efectivo,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,24.2,7,Cheque,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,19.76,1,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,20.77,1,Cheque,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,25.48,9,PayPal,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,7.49,5,PayPal,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,14.68,4,Tarjeta de Credito,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,6.64,2,Transferencia Bancaria,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,29.63,1,Cheque,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,28.32,6,Tarjeta de Credito,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,14.93,2,Transferencia Bancaria,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,21.17,8,Cheque,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,27.76,3,Efectivo,30,3,2024
+69,Laptop,Electronica,970,4,Asia,5.42,5,Transferencia Bancaria,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,17.04,7,PayPal,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,27.46,9,Tarjeta de Credito,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,1.02,3,Transferencia Bancaria,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,20.92,1,Transferencia Bancaria,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,8.92,4,PayPal,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,27.73,8,Cheque,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,29.13,6,Efectivo,7,4,2024
+77,Laptop,Electronica,950,3,Asia,28.33,7,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,14.23,2,Efectivo,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,25.86,10,Cheque,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,25.34,6,Transferencia Bancaria,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,9.57,2,Efectivo,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,24.87,8,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,1.11,3,Desconocido,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,17.89,5,PayPal,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,6.9,7,Cheque,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,3.62,9,PayPal,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,2.31,3,PayPal,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,20.89,7,PayPal,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,10.2,9,Tarjeta de Credito,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,21.74,3,Desconocido,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,14.93,1,PayPal,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,9.46,4,Tarjeta de Credito,27,1,2024
+14,Laptop,Electronica,850,1,Europa,16.18,8,Cheque,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,23.72,6,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,9.56,7,Tarjeta de Credito,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,18.78,2,Efectivo,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,26.58,2,PayPal,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,18.48,5,PayPal,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,6.99,1,Cheque,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,0.73,3,Transferencia Bancaria,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,26.1,1,Transferencia Bancaria,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,0.64,4,Cheque,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,26.24,10,Cheque,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,15.87,6,Cheque,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,28.17,2,Transferencia Bancaria,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,23.96,8,Cheque,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,29.94,2,Tarjeta de Credito,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,10.52,3,PayPal,12,2,2024
+30,Laptop,Electronica,970,4,Asia,23.02,7,PayPal,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,12.06,9,Efectivo,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,14.4,3,Efectivo,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,18.83,1,PayPal,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,26.21,4,Tarjeta de Credito,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,29.52,8,Transferencia Bancaria,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,23.05,6,Transferencia Bancaria,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,12.53,5,Tarjeta de Credito,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,12.64,7,Transferencia Bancaria,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,22.13,4,Cheque,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,7.16,3,PayPal,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,3.31,7,PayPal,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,10.64,20,Tarjeta de Credito,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,8.62,4,Transferencia Bancaria,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,8.89,3,Efectivo,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,7.01,6,Efectivo,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,1.26,23,Transferencia Bancaria,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,0.54,70,Desconocido,12,2,2024
+48,Laptop,Electronica,970,4,Asia,29.63,5,Tarjeta de Credito,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,12.83,3,Tarjeta de Credito,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,11.53,4,Transferencia Bancaria,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,20.39,2,Efectivo,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,6.55,5,Tarjeta de Credito,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,28.5,6,Tarjeta de Credito,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,23.59,5,Cheque,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,2.68,7,Cheque,17,3,2024
+56,Laptop,Electronica,950,3,Asia,12.53,4,Tarjeta de Credito,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,26.37,3,Transferencia Bancaria,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,28.34,7,PayPal,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,14.02,20,PayPal,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,18.4,4,Tarjeta de Credito,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,5.01,3,Tarjeta de Credito,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,29.74,6,Tarjeta de Credito,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,6.95,23,Transferencia Bancaria,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,28.28,70,Cheque,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,19.49,5,Tarjeta de Credito,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,18.23,3,Tarjeta de Credito,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,15.38,4,Efectivo,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,6.92,2,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,5.3,5,Tarjeta de Credito,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,6.61,6,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,5.59,5,PayPal,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,23.39,7,Tarjeta de Credito,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,10.5,4,Tarjeta de Credito,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,1.74,3,Efectivo,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,29.07,7,Transferencia Bancaria,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,26.51,20,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,27.83,4,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,29.85,3,Tarjeta de Credito,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,5.22,6,PayPal,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,11.89,23,Cheque,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,22.75,70,Cheque,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,20.88,5,PayPal,17,1,2024
+4,Laptop,Electronica,950,3,Asia,4.62,3,Transferencia Bancaria,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,24.47,4,Desconocido,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,6.73,2,Tarjeta de Credito,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,6.71,5,Cheque,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,16.11,6,PayPal,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,17.79,5,Tarjeta de Credito,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,17.4,7,Tarjeta de Credito,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,2.74,4,Transferencia Bancaria,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,26.32,3,Efectivo,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,7.97,7,Desconocido,27,1,2024
+14,Laptop,Electronica,850,1,Europa,3.89,20,Cheque,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,26.66,4,Efectivo,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,28.67,3,Tarjeta de Credito,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,25.86,6,Transferencia Bancaria,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,14.93,23,Desconocido,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,19.66,70,Cheque,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,16.53,5,Transferencia Bancaria,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,2.61,3,Efectivo,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,12.25,4,Tarjeta de Credito,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,11.18,2,Efectivo,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,7.79,5,PayPal,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,21.7,8,Cheque,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,14.88,2,Transferencia Bancaria,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,2.43,3,PayPal,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,6.61,7,Transferencia Bancaria,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,20.5,9,Tarjeta de Credito,12,2,2024
+30,Laptop,Electronica,970,4,Asia,2.28,3,Tarjeta de Credito,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,25.54,1,Tarjeta de Credito,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,14.85,4,Transferencia Bancaria,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,14.42,8,PayPal,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,17.77,6,Tarjeta de Credito,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,24.74,7,PayPal,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,10.43,2,Transferencia Bancaria,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,20.34,2,PayPal,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,16.97,5,Transferencia Bancaria,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,14.93,1,Transferencia Bancaria,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,26.36,3,Cheque,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,23.92,1,Transferencia Bancaria,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,19.75,3,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,25.52,8,Efectivo,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,26.02,2,Tarjeta de Credito,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,21.25,3,Cheque,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,25.11,7,Cheque,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,20.92,9,Cheque,12,2,2024
+48,Laptop,Electronica,970,4,Asia,20.4,3,Efectivo,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,18.56,1,Transferencia Bancaria,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,22.58,4,Tarjeta de Credito,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,4.76,8,PayPal,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,26.43,6,Transferencia Bancaria,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,26.16,7,Efectivo,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,0.88,2,Transferencia Bancaria,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,24.77,2,Transferencia Bancaria,17,3,2024
+56,Laptop,Electronica,950,3,Asia,3.87,5,Efectivo,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,10.05,1,Cheque,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,22.31,3,Cheque,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,4.82,1,Tarjeta de Credito,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,24.54,3,Tarjeta de Credito,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,24.96,1,Cheque,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,15.22,9,PayPal,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,0.19,5,Transferencia Bancaria,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,8.61,4,PayPal,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,18.51,2,Transferencia Bancaria,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,29.44,1,Cheque,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,18.95,6,Desconocido,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,7.79,2,Tarjeta de Credito,30,3,2024
+69,Laptop,Electronica,970,4,Asia,19.02,8,PayPal,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,16.2,3,Tarjeta de Credito,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,23.4,5,Cheque,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,3.21,7,PayPal,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,22.83,9,Transferencia Bancaria,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,16.24,3,Tarjeta de Credito,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,28.89,1,Efectivo,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,10.26,4,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,18.98,8,Transferencia Bancaria,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,27.96,1,PayPal,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,3.08,9,Transferencia Bancaria,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,28.12,5,Efectivo,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,20.64,4,Cheque,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,2.04,2,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,9.03,1,PayPal,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,21.25,6,Cheque,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,2.02,2,Transferencia Bancaria,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,17.47,8,PayPal,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,10.38,3,Cheque,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,18.63,5,PayPal,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,1.37,7,Efectivo,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,26.15,9,Efectivo,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,29.2,3,Tarjeta de Credito,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,29.07,1,Tarjeta de Credito,27,1,2024
+14,Laptop,Electronica,850,1,Europa,22.49,4,Efectivo,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,3.9,8,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,22.75,1,Efectivo,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,0.74,9,Tarjeta de Credito,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,0.66,5,Efectivo,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,9.71,4,Efectivo,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,14.66,2,PayPal,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,23.11,1,Cheque,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,20.5,6,Tarjeta de Credito,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,13.38,2,PayPal,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,8.21,8,Efectivo,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,29.91,3,Efectivo,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,12.79,5,Cheque,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,13.54,7,Tarjeta de Credito,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,4.91,9,Tarjeta de Credito,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,23.84,3,Transferencia Bancaria,12,2,2024
+30,Laptop,Electronica,970,4,Asia,20.81,1,Tarjeta de Credito,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,6.62,4,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,2.47,8,Transferencia Bancaria,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,20.41,1,Transferencia Bancaria,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,19.64,9,Efectivo,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,8.2,5,Efectivo,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,28.53,4,Tarjeta de Credito,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,4.53,2,Transferencia Bancaria,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,12.97,1,Efectivo,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,28.31,6,Cheque,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,12.59,2,Efectivo,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,19.16,8,Efectivo,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,11.93,3,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,8.23,5,Transferencia Bancaria,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,29.52,7,PayPal,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,12.28,9,Cheque,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,26.82,3,Transferencia Bancaria,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,6.9,1,Tarjeta de Credito,12,2,2024
+48,Laptop,Electronica,970,4,Asia,6.39,4,Cheque,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,0.93,8,Cheque,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,19.55,10,Transferencia Bancaria,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,11.06,6,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,25.93,2,Transferencia Bancaria,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,14.2,8,Efectivo,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,29.05,2,PayPal,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,5.57,3,Efectivo,17,3,2024
+56,Laptop,Electronica,950,3,Asia,26.06,7,Transferencia Bancaria,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,23.3,9,Transferencia Bancaria,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,23.13,3,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,25.34,1,Tarjeta de Credito,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,22.83,4,Tarjeta de Credito,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,18.79,8,Tarjeta de Credito,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,3.94,6,Transferencia Bancaria,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,0.98,7,Cheque,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,27.63,2,Transferencia Bancaria,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,18.5,2,Desconocido,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,23.9,5,Efectivo,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,14.45,1,PayPal,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,3.52,3,Cheque,30,3,2024
+69,Laptop,Electronica,970,4,Asia,3.76,1,Tarjeta de Credito,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,20.57,3,Transferencia Bancaria,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,12.91,2,Efectivo,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,6.02,5,Tarjeta de Credito,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,14.75,1,Efectivo,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,1.93,3,Desconocido,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,17.46,1,Transferencia Bancaria,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,8.07,4,Transferencia Bancaria,7,4,2024
+77,Laptop,Electronica,950,3,Asia,23.93,10,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,9.31,6,Transferencia Bancaria,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,13.66,2,Cheque,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,0.35,8,Efectivo,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,2.17,2,Tarjeta de Credito,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,14.93,3,PayPal,17,1,2024
+4,Laptop,Electronica,950,3,Asia,14.4,7,Cheque,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,18,1,Tarjeta de Credito,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,8.75,1,Tarjeta de Credito,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,20.85,9,PayPal,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,25.8,5,Cheque,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,23.4,4,Tarjeta de Credito,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,1.19,2,Tarjeta de Credito,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,14.42,1,Cheque,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,3.15,6,Transferencia Bancaria,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,7.26,2,Tarjeta de Credito,27,1,2024
+14,Laptop,Electronica,850,1,Europa,29.6,8,Efectivo,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,4.27,3,Cheque,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,14.97,5,Tarjeta de Credito,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,18.54,7,PayPal,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,21.07,9,Efectivo,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,16.79,3,Tarjeta de Credito,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,0.29,1,Efectivo,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,9.79,4,Efectivo,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,15.53,8,Transferencia Bancaria,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,2.64,6,Efectivo,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,10.52,7,Transferencia Bancaria,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,1,2,Cheque,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,2.36,10,Desconocido,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,11.91,6,PayPal,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,3.98,2,Tarjeta de Credito,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,17.03,8,Cheque,12,2,2024
+30,Laptop,Electronica,970,4,Asia,20.68,3,Cheque,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,24.02,5,PayPal,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,6,7,Transferencia Bancaria,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,5.02,9,Tarjeta de Credito,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,3.14,3,Transferencia Bancaria,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,19.09,7,Efectivo,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,21.19,9,Transferencia Bancaria,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,0.95,3,Cheque,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,28.09,1,Tarjeta de Credito,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,1.56,4,Transferencia Bancaria,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,16.24,8,Tarjeta de Credito,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,21.27,6,Tarjeta de Credito,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,26.13,7,Efectivo,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,21.42,2,Efectivo,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,24.05,2,Cheque,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,10.18,5,PayPal,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,24.44,1,Tarjeta de Credito,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,2.4,3,PayPal,12,2,2024
+48,Laptop,Electronica,970,4,Asia,26.84,1,Cheque,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,16.43,4,Tarjeta de Credito,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,24.52,10,Tarjeta de Credito,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,13.57,6,PayPal,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,19.31,2,Transferencia Bancaria,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,15.79,8,Efectivo,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,21.95,2,Transferencia Bancaria,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,2.45,3,PayPal,17,3,2024
+56,Laptop,Electronica,950,3,Asia,1.81,7,Efectivo,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,7.41,9,Transferencia Bancaria,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,4.79,3,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,26.15,1,Tarjeta de Credito,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,6.58,4,Transferencia Bancaria,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,29.28,8,Efectivo,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,10.11,10,Efectivo,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,5.46,6,Efectivo,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,23.69,2,Transferencia Bancaria,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,19.76,8,Cheque,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,14.95,2,Transferencia Bancaria,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,16.66,3,PayPal,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,14.93,7,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,6.85,9,Efectivo,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,29.89,3,Tarjeta de Credito,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,29.24,1,Transferencia Bancaria,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,19.51,4,Transferencia Bancaria,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,5.99,8,Efectivo,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,20.41,6,Tarjeta de Credito,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,2.17,7,Tarjeta de Credito,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.92,2,PayPal,7,4,2024
+77,Laptop,Electronica,950,3,Asia,7.73,2,Transferencia Bancaria,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,13.88,5,Tarjeta de Credito,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,26.05,1,Tarjeta de Credito,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,21.82,3,Cheque,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,22.28,1,Cheque,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,12.76,3,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,10.38,2,PayPal,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,11.13,5,Tarjeta de Credito,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,29.63,1,Efectivo,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,1.2,3,Transferencia Bancaria,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,26.01,1,PayPal,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,17.36,4,Desconocido,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,13.16,10,PayPal,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,21.76,6,Efectivo,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,14.6,2,Transferencia Bancaria,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,26.2,8,Transferencia Bancaria,27,1,2024
+14,Laptop,Electronica,850,1,Europa,27.02,2,Cheque,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,12.65,3,Efectivo,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,8.3,7,Cheque,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,17.77,1,Efectivo,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,27.37,1,Cheque,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,6.32,9,Transferencia Bancaria,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,18.69,5,PayPal,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,18.95,4,Cheque,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,21.99,2,Efectivo,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,3.95,1,Efectivo,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,21.47,6,Transferencia Bancaria,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,27.27,2,Efectivo,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,5.39,8,Tarjeta de Credito,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,14.93,3,PayPal,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,29.14,5,Cheque,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,5.43,7,PayPal,12,2,2024
+30,Laptop,Electronica,970,4,Asia,25.63,9,Transferencia Bancaria,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,14.77,3,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,7.42,1,Cheque,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,26.12,4,Tarjeta de Credito,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,13.36,8,Desconocido,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,15.44,6,Efectivo,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,10.78,7,Tarjeta de Credito,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,17.79,2,Tarjeta de Credito,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,4.91,10,PayPal,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,11.73,6,PayPal,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,29.08,2,PayPal,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,7.74,8,Desconocido,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,19.7,3,Efectivo,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,9.76,5,Cheque,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,23.2,7,PayPal,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,3.93,9,Efectivo,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,29.09,3,Transferencia Bancaria,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,13.61,7,PayPal,12,2,2024
+48,Laptop,Electronica,970,4,Asia,7.08,9,Cheque,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,2.2,3,Transferencia Bancaria,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,5.09,1,Transferencia Bancaria,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,15.59,4,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,14.93,8,PayPal,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,24.87,6,Tarjeta de Credito,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,12.93,7,Cheque,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,7.46,2,Cheque,17,3,2024
+56,Laptop,Electronica,950,3,Asia,18.51,2,Cheque,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,21.2,5,Transferencia Bancaria,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,5.01,1,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,14.93,3,Tarjeta de Credito,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,1.1,1,PayPal,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,22.09,4,PayPal,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,19.91,10,Efectivo,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,14.24,6,Cheque,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,25.33,2,Tarjeta de Credito,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,24.17,8,PayPal,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,17.56,2,PayPal,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,26.05,3,Cheque,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,6.18,7,Efectivo,30,3,2024
+69,Laptop,Electronica,970,4,Asia,3.36,9,Tarjeta de Credito,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,8.09,3,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,1.71,1,Desconocido,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,15.94,4,Tarjeta de Credito,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,28.1,8,Tarjeta de Credito,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,1.18,6,PayPal,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,3.66,5,PayPal,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,13.57,7,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,28.02,4,Transferencia Bancaria,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,9.48,3,PayPal,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,15.22,7,Transferencia Bancaria,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,1.25,20,Tarjeta de Credito,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,4.45,4,Desconocido,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,29.6,3,Efectivo,17,1,2024
+4,Laptop,Electronica,950,3,Asia,28.95,6,Tarjeta de Credito,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,0.15,23,Cheque,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,28.55,70,Transferencia Bancaria,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,19.17,5,Tarjeta de Credito,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,26.04,3,Desconocido,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,13.64,4,PayPal,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,15.47,2,PayPal,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,14.67,5,PayPal,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,20.01,6,Cheque,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,4.19,5,PayPal,27,1,2024
+14,Laptop,Electronica,850,1,Europa,0.9,7,Tarjeta de Credito,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,9.24,4,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,21.14,3,Efectivo,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,6.06,7,PayPal,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,20.2,20,Cheque,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,14.93,4,Efectivo,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,2.82,3,Desconocido,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,14.93,6,Tarjeta de Credito,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,13.31,23,Transferencia Bancaria,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,26.04,70,Efectivo,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,5.31,5,Transferencia Bancaria,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,20.78,3,Efectivo,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,25.14,4,Efectivo,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,28.34,2,Cheque,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,20.5,5,Transferencia Bancaria,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,14.92,6,Cheque,12,2,2024
+30,Laptop,Electronica,970,4,Asia,18.54,5,Efectivo,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,26.07,7,Tarjeta de Credito,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,17.12,4,Efectivo,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,0.91,3,Cheque,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,27.93,7,Transferencia Bancaria,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,20.69,20,Transferencia Bancaria,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,20.3,4,Cheque,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,6.47,3,Transferencia Bancaria,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,19.77,6,PayPal,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,11.82,23,Tarjeta de Credito,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,19.54,70,Tarjeta de Credito,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,3.2,5,Tarjeta de Credito,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,19.74,3,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,29.98,4,Transferencia Bancaria,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,1.45,2,Efectivo,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,29.32,5,Efectivo,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,12.21,6,Tarjeta de Credito,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,26.12,5,PayPal,12,2,2024
+48,Laptop,Electronica,970,4,Asia,23.47,7,Efectivo,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,17.01,4,Efectivo,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,22.15,3,Transferencia Bancaria,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,26.36,7,PayPal,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,12.12,20,Tarjeta de Credito,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,9.81,4,Efectivo,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,20.03,3,PayPal,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,14.93,6,PayPal,17,3,2024
+56,Laptop,Electronica,950,3,Asia,22.87,23,Tarjeta de Credito,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,23.93,70,PayPal,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,13.07,5,PayPal,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,24.54,3,PayPal,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,3.61,4,Efectivo,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,16.33,2,Tarjeta de Credito,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,14.93,5,PayPal,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,9.74,8,PayPal,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,10.99,2,Efectivo,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,11.89,3,Tarjeta de Credito,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,20.86,7,Transferencia Bancaria,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,11.66,9,Efectivo,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,13.46,3,Tarjeta de Credito,30,3,2024
+69,Laptop,Electronica,970,4,Asia,7.13,1,PayPal,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,11.2,4,Tarjeta de Credito,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,6.82,8,Tarjeta de Credito,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,2.2,6,Tarjeta de Credito,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,18.1,7,Transferencia Bancaria,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,20.05,2,Tarjeta de Credito,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,18.58,2,Transferencia Bancaria,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,13.9,5,PayPal,7,4,2024
+77,Laptop,Electronica,950,3,Asia,11.39,1,Transferencia Bancaria,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,25.9,3,PayPal,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,15.57,1,PayPal,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,14.38,3,Transferencia Bancaria,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,0.77,8,Efectivo,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,10.24,2,Cheque,17,1,2024
+4,Laptop,Electronica,950,3,Asia,11.41,3,Desconocido,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,11.96,7,Cheque,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,17.41,9,Tarjeta de Credito,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,16.01,3,Tarjeta de Credito,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,18.24,1,PayPal,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,22.95,4,Tarjeta de Credito,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,24.39,8,Tarjeta de Credito,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,21.54,6,Transferencia Bancaria,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,28.67,7,Cheque,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,0.55,2,Transferencia Bancaria,27,1,2024
+14,Laptop,Electronica,850,1,Europa,5.87,2,Tarjeta de Credito,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,0.23,5,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,19.42,1,Transferencia Bancaria,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,26.94,3,Transferencia Bancaria,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,7.3,1,Efectivo,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,14.93,3,Tarjeta de Credito,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,1.81,1,PayPal,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,28.03,9,Transferencia Bancaria,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,10.55,5,Transferencia Bancaria,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,3.04,4,Desconocido,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,14.58,2,Tarjeta de Credito,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,7.7,1,Efectivo,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,8.55,6,Transferencia Bancaria,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,9.22,2,Efectivo,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,24.09,8,Cheque,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,16.17,3,Tarjeta de Credito,12,2,2024
+30,Laptop,Electronica,970,4,Asia,9.34,5,Cheque,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,18.31,7,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,21.48,9,Cheque,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,8.18,3,Tarjeta de Credito,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,12.41,1,Tarjeta de Credito,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,3.66,4,PayPal,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,5.43,8,Efectivo,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,20.43,1,Efectivo,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,5.44,9,Desconocido,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,15.75,5,PayPal,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,21.27,4,Cheque,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,3.21,2,PayPal,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,17.02,1,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,7.7,6,Efectivo,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,28.89,2,PayPal,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,14.51,8,Transferencia Bancaria,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,24.18,3,Transferencia Bancaria,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,14.93,5,Transferencia Bancaria,12,2,2024
+48,Laptop,Electronica,970,4,Asia,1.3,7,Transferencia Bancaria,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,18.99,9,Cheque,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,28.54,3,Transferencia Bancaria,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,18.05,1,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,24.58,4,Cheque,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,26.53,8,Transferencia Bancaria,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,6.84,1,Desconocido,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,6.36,9,Transferencia Bancaria,17,3,2024
+56,Laptop,Electronica,950,3,Asia,18.33,5,Transferencia Bancaria,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,12.33,4,Transferencia Bancaria,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,25.2,2,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,27,1,Tarjeta de Credito,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,10.6,6,Tarjeta de Credito,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,7.11,2,Cheque,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,23.42,8,Cheque,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,8.24,3,Efectivo,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,24.68,5,PayPal,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,14.93,7,Tarjeta de Credito,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,20.03,9,Cheque,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,2.87,3,Tarjeta de Credito,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,18.72,1,Efectivo,30,3,2024
+69,Laptop,Electronica,970,4,Asia,13.55,4,Efectivo,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,14.93,8,PayPal,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,5.04,1,PayPal,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,22.11,9,Efectivo,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,25.88,5,Cheque,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,6.5,4,Tarjeta de Credito,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,2.87,2,Transferencia Bancaria,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.71,1,PayPal,7,4,2024
+77,Laptop,Electronica,950,3,Asia,19.26,6,Transferencia Bancaria,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,18.21,2,Cheque,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,16.4,8,PayPal,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,6.96,3,Transferencia Bancaria,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,11.73,5,Cheque,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,17.83,7,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,14.9,9,Cheque,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,29.63,3,PayPal,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,4.09,1,Efectivo,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,20.85,4,Tarjeta de Credito,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,12.13,8,Transferencia Bancaria,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,12.85,10,PayPal,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,21.53,6,Efectivo,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,20.77,2,Cheque,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,29.74,8,Efectivo,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,3.85,2,PayPal,27,1,2024
+14,Laptop,Electronica,850,1,Europa,3.12,3,PayPal,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,21.73,7,Efectivo,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,17.35,9,Cheque,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,8.22,3,Efectivo,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,2.38,1,PayPal,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,2.57,4,PayPal,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,26.83,8,Transferencia Bancaria,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,5.76,6,Transferencia Bancaria,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,9.7,7,Tarjeta de Credito,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,6.8,2,PayPal,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,10.65,2,Transferencia Bancaria,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,2.08,5,Efectivo,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,15.57,1,Cheque,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,2.03,3,Efectivo,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,24.01,1,Cheque,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,7.01,3,Transferencia Bancaria,12,2,2024
+30,Laptop,Electronica,970,4,Asia,16.2,2,Tarjeta de Credito,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,26.4,5,Efectivo,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,19.53,1,Efectivo,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,15.99,3,Efectivo,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,9.73,1,Cheque,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,9.99,4,Transferencia Bancaria,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,20.08,10,Efectivo,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,29.82,6,Efectivo,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,19.86,2,Desconocido,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,16.73,8,Tarjeta de Credito,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,21.92,2,Transferencia Bancaria,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,13.96,3,Transferencia Bancaria,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,1.8,7,PayPal,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,16.87,1,Tarjeta de Credito,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,28.73,1,PayPal,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,5.26,9,Cheque,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,20.7,5,PayPal,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,6.03,4,Efectivo,12,2,2024
+48,Laptop,Electronica,970,4,Asia,16.07,2,PayPal,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,2.9,1,Transferencia Bancaria,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,13.51,6,Cheque,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,22.68,2,Efectivo,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,10.43,8,PayPal,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,19.95,3,Cheque,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,23.86,5,Cheque,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,27.82,7,Efectivo,17,3,2024
+56,Laptop,Electronica,950,3,Asia,7.04,9,Desconocido,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,11.98,3,Cheque,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,4.57,1,Cheque,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,29.77,4,Tarjeta de Credito,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,27.81,8,Cheque,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,16.2,6,Tarjeta de Credito,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,25.26,7,PayPal,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,15.63,2,PayPal,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,18.71,10,PayPal,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,2.67,6,Transferencia Bancaria,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,14.93,2,PayPal,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,3.83,8,Cheque,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,24.78,3,Efectivo,30,3,2024
+69,Laptop,Electronica,970,4,Asia,23.46,5,Tarjeta de Credito,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,21.26,7,Transferencia Bancaria,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,1.08,9,PayPal,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,9.09,3,PayPal,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,7.89,7,Efectivo,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,10.8,9,Efectivo,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,2.63,3,Transferencia Bancaria,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,28.11,1,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,16.61,4,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,9.17,8,Transferencia Bancaria,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,11.91,6,Cheque,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,13.42,7,Cheque,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,18.02,2,Transferencia Bancaria,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,15.47,2,PayPal,17,1,2024
+4,Laptop,Electronica,950,3,Asia,27.58,5,Transferencia Bancaria,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,14.91,1,PayPal,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,29.76,3,Efectivo,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,25.54,1,Transferencia Bancaria,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,6.26,4,PayPal,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,27.92,10,Transferencia Bancaria,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,3.49,6,Transferencia Bancaria,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,24.52,2,PayPal,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,11.42,8,PayPal,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,26.34,2,Tarjeta de Credito,27,1,2024
+14,Laptop,Electronica,850,1,Europa,26.04,3,Transferencia Bancaria,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,24.18,7,Cheque,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,23.7,9,Transferencia Bancaria,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,9.14,3,Transferencia Bancaria,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,2.43,1,PayPal,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,12.09,4,Transferencia Bancaria,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,5.21,8,Transferencia Bancaria,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,20.85,10,Cheque,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,10.38,6,PayPal,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,14.93,2,Transferencia Bancaria,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,19.23,8,Efectivo,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,24.67,2,Tarjeta de Credito,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,3.98,3,Cheque,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,25.86,7,Transferencia Bancaria,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,27.68,9,Efectivo,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,14.93,3,Transferencia Bancaria,12,2,2024
+30,Laptop,Electronica,970,4,Asia,14.93,1,Transferencia Bancaria,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,22.94,4,PayPal,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,5.25,8,PayPal,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,15.08,6,PayPal,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,11.96,7,Efectivo,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,4.39,2,Transferencia Bancaria,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,11.03,2,Tarjeta de Credito,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,2.05,5,Cheque,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,0.77,1,PayPal,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,4.05,3,PayPal,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,28.89,1,Transferencia Bancaria,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,16.49,3,Transferencia Bancaria,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,28.97,2,Efectivo,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,12.97,5,Efectivo,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,9.35,1,PayPal,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,15.18,3,Transferencia Bancaria,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,13.19,1,Tarjeta de Credito,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,3.17,4,Cheque,12,2,2024
+48,Laptop,Electronica,970,4,Asia,19.22,10,Transferencia Bancaria,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,6.48,6,Transferencia Bancaria,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,18.59,2,Efectivo,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,19.51,8,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,4.56,2,PayPal,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,1.84,3,Transferencia Bancaria,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,23.42,7,PayPal,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,13.79,1,Transferencia Bancaria,17,3,2024
+56,Laptop,Electronica,950,3,Asia,1.74,1,PayPal,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,29.85,9,Cheque,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,1.73,5,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,20.85,4,Cheque,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,29.51,2,Tarjeta de Credito,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,7.18,1,Efectivo,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,4.27,6,Cheque,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,3.64,2,Tarjeta de Credito,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,9.1,8,Transferencia Bancaria,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,3.03,3,Transferencia Bancaria,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,20.76,5,PayPal,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,1.87,7,Efectivo,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,15.28,9,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,29.9,3,Efectivo,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,24.42,1,Transferencia Bancaria,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,18.46,4,PayPal,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,9.19,8,Cheque,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,18.72,6,PayPal,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,15.81,7,Tarjeta de Credito,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,12.78,2,Transferencia Bancaria,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,3.92,10,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,26.6,6,Tarjeta de Credito,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,13.49,2,Efectivo,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,5.84,8,Transferencia Bancaria,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,11.03,3,Tarjeta de Credito,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,12.42,5,Cheque,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,24.83,7,Tarjeta de Credito,17,1,2024
+4,Laptop,Electronica,950,3,Asia,22.01,9,Cheque,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,14.93,3,Efectivo,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,0.33,7,Tarjeta de Credito,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,12.48,9,PayPal,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,14.44,3,Efectivo,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,0.58,1,Cheque,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,7.79,4,Efectivo,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,22.81,8,Tarjeta de Credito,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,4.11,6,Transferencia Bancaria,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,16.06,7,Transferencia Bancaria,27,1,2024
+14,Laptop,Electronica,850,1,Europa,6.46,2,Cheque,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,0.36,2,Cheque,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,7.24,5,Transferencia Bancaria,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,29.28,1,Cheque,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,24.05,3,Efectivo,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,28.79,1,PayPal,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,14.64,4,PayPal,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,3.29,10,Efectivo,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,16.44,6,PayPal,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,13.63,2,Tarjeta de Credito,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,25.33,8,Efectivo,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,2.94,2,Cheque,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,14.65,3,Efectivo,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,4.5,7,Transferencia Bancaria,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,9.74,9,Cheque,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,22.12,3,Transferencia Bancaria,12,2,2024
+30,Laptop,Electronica,970,4,Asia,14.28,1,Cheque,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,11.28,4,PayPal,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,11.83,8,Efectivo,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,13.78,6,Tarjeta de Credito,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,23.55,5,Cheque,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,26.76,7,Cheque,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,28.66,4,Transferencia Bancaria,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,23.61,3,PayPal,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,9.46,7,Transferencia Bancaria,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,20.64,20,Transferencia Bancaria,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,13.13,4,PayPal,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,7.64,3,Tarjeta de Credito,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,25.23,6,Transferencia Bancaria,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,1.15,23,Transferencia Bancaria,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,27.05,70,Cheque,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,13.84,5,PayPal,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,19.12,3,Efectivo,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,14.93,4,Tarjeta de Credito,12,2,2024
+48,Laptop,Electronica,970,4,Asia,26.85,2,Tarjeta de Credito,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,19.1,5,Desconocido,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,18.42,6,Cheque,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,2,5,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,15.55,7,PayPal,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,4.51,4,Cheque,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,22.12,3,Tarjeta de Credito,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,15.37,7,Tarjeta de Credito,17,3,2024
+56,Laptop,Electronica,950,3,Asia,20.41,20,Efectivo,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,1.25,4,PayPal,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,14.93,3,Transferencia Bancaria,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,21.49,6,Transferencia Bancaria,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,2.16,23,Efectivo,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,2.14,70,Desconocido,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,0.36,5,Cheque,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,28.7,3,Efectivo,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,22.13,4,Efectivo,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,10.6,2,Transferencia Bancaria,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,8.9,5,Cheque,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,10.49,6,Efectivo,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,23.24,5,Efectivo,30,3,2024
+69,Laptop,Electronica,970,4,Asia,19.84,7,Cheque,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,5.56,4,PayPal,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,5.22,3,Cheque,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,2.95,7,Transferencia Bancaria,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,19.81,20,PayPal,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,22.93,4,Tarjeta de Credito,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,7.95,3,Cheque,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,0.63,6,Transferencia Bancaria,7,4,2024
+77,Laptop,Electronica,950,3,Asia,2.47,23,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,29.04,70,Cheque,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,8.86,5,Efectivo,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,23.08,3,Cheque,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,18.74,4,Tarjeta de Credito,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,11.46,2,Desconocido,17,1,2024
+4,Laptop,Electronica,950,3,Asia,6.17,5,PayPal,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,3.64,6,PayPal,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,18.45,5,Cheque,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,23.24,7,PayPal,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,19.32,4,Efectivo,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,15.91,3,Cheque,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,1.26,7,Efectivo,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,29.05,20,Efectivo,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,23.96,4,Transferencia Bancaria,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,8.78,3,Cheque,27,1,2024
+14,Laptop,Electronica,850,1,Europa,29.4,6,PayPal,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,18.06,23,Efectivo,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,17.47,70,Transferencia Bancaria,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,22.44,5,Cheque,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,14.93,3,Cheque,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,19.69,4,Tarjeta de Credito,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,3.84,2,Tarjeta de Credito,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,10.15,5,Efectivo,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,27.84,8,Tarjeta de Credito,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,6.74,2,Efectivo,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,11.17,3,PayPal,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,12.96,7,Efectivo,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,13.18,9,Tarjeta de Credito,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,18.39,3,PayPal,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,14.93,1,Tarjeta de Credito,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,7.22,4,Efectivo,12,2,2024
+30,Laptop,Electronica,970,4,Asia,3.65,8,Transferencia Bancaria,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,5.92,6,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,26.61,7,Tarjeta de Credito,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,19.37,2,Efectivo,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,8.58,2,PayPal,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,24.48,5,Tarjeta de Credito,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,25.84,1,Tarjeta de Credito,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,25.4,3,Cheque,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,14.93,1,Efectivo,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,7.57,3,Transferencia Bancaria,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,22.65,8,PayPal,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,13.82,2,Efectivo,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,25.26,3,PayPal,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,21.85,7,Tarjeta de Credito,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,23.29,9,Cheque,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,19.68,3,Cheque,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,5.32,1,Transferencia Bancaria,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,16.35,4,Cheque,12,2,2024
+48,Laptop,Electronica,970,4,Asia,14.93,8,Tarjeta de Credito,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,28.12,6,Desconocido,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,1.3,7,Efectivo,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,4.94,2,Cheque,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,3.95,2,Transferencia Bancaria,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,21.78,5,Tarjeta de Credito,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,24.53,1,PayPal,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,6.41,3,PayPal,17,3,2024
+56,Laptop,Electronica,950,3,Asia,15.18,1,Tarjeta de Credito,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,25.22,3,Tarjeta de Credito,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,21.98,1,PayPal,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,16.27,9,Transferencia Bancaria,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,17.71,5,PayPal,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,15.25,4,Tarjeta de Credito,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,8.93,2,Cheque,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,16.95,1,Efectivo,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,20.67,6,Cheque,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,26.2,2,Cheque,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,19.09,8,Tarjeta de Credito,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,22.83,3,PayPal,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,4.8,5,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,13.85,7,Cheque,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,0.28,9,PayPal,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,7.4,3,Transferencia Bancaria,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,21.79,1,Cheque,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,29.75,4,Transferencia Bancaria,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,2.98,8,PayPal,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,12.04,1,Efectivo,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,24,9,PayPal,7,4,2024
+77,Laptop,Electronica,950,3,Asia,6.12,5,Tarjeta de Credito,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,14.93,4,Transferencia Bancaria,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,21.99,2,Efectivo,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,18.48,1,Transferencia Bancaria,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,14.93,6,Transferencia Bancaria,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,10.66,2,Cheque,17,1,2024
+4,Laptop,Electronica,950,3,Asia,23.51,8,Tarjeta de Credito,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,16.63,3,Transferencia Bancaria,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,0.16,5,PayPal,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,22.83,7,PayPal,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,1.06,9,Cheque,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,22.37,3,Tarjeta de Credito,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,6.07,1,Tarjeta de Credito,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,28.74,4,PayPal,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,11.04,8,Efectivo,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,9.81,1,Cheque,27,1,2024
+14,Laptop,Electronica,850,1,Europa,4.47,9,Cheque,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,9.17,5,PayPal,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,26.3,4,PayPal,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,29.89,2,Efectivo,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,11.05,1,Efectivo,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,13.46,6,Tarjeta de Credito,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,21.66,2,Cheque,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,26.59,8,Cheque,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,17.79,3,PayPal,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,11.75,5,Tarjeta de Credito,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,12.38,7,Cheque,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,20.87,9,Tarjeta de Credito,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,0.1,3,Tarjeta de Credito,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,18.59,1,PayPal,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,10.66,4,Tarjeta de Credito,11,2,2024
+29,Refrigerador,Electronica,650,1,Europa,23.83,8,Efectivo,12,2,2024
+30,Laptop,Electronica,970,4,Asia,2.79,1,Efectivo,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,17.65,9,Transferencia Bancaria,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,14.43,5,PayPal,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,19.27,4,Transferencia Bancaria,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,1.95,2,Efectivo,17,2,2024
+35,Microondas,Electronica,543.11,10,Sudamerica,17.4,1,Transferencia Bancaria,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,16.84,6,PayPal,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,14.93,2,PayPal,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,18.1,8,Tarjeta de Credito,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,20.29,3,Cheque,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,24.15,5,Desconocido,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,8.09,7,PayPal,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,24.75,9,Efectivo,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,14.95,3,Efectivo,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,2.31,1,Tarjeta de Credito,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,1.76,4,PayPal,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,10.03,8,Efectivo,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,23.55,10,PayPal,12,2,2024
+48,Laptop,Electronica,970,4,Asia,21.23,6,Efectivo,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,23.66,2,PayPal,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,15.52,8,Transferencia Bancaria,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,13.21,2,PayPal,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,4.42,3,Desconocido,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,9.85,7,Tarjeta de Credito,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,13.02,9,Transferencia Bancaria,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,2.66,3,Cheque,17,3,2024
+56,Laptop,Electronica,950,3,Asia,6.62,1,Tarjeta de Credito,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,17.95,4,Cheque,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,22.07,8,Efectivo,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,29.95,6,Cheque,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,27.99,7,PayPal,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,19.28,2,Cheque,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,12.64,2,Tarjeta de Credito,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,19.09,5,Tarjeta de Credito,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,23.57,1,Cheque,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,3.55,3,Tarjeta de Credito,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,12.3,1,Tarjeta de Credito,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,25.19,3,Cheque,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,11.51,2,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,17.16,5,Transferencia Bancaria,31,3,2024
+70,"Televisor 55""",Electronica,690,8,Sudamerica,17.63,1,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,5.53,3,Tarjeta de Credito,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,10.87,1,Cheque,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,10.04,4,Tarjeta de Credito,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,0.79,10,PayPal,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,0.73,6,Tarjeta de Credito,6,4,2024
+76,"Televisor 55""",Electrodomestico,1200,1,Sudamerica,24.95,2,Tarjeta de Credito,7,4,2024
+77,Laptop,Electronica,950,3,Asia,8.19,8,Transferencia Bancaria,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,15.54,2,Cheque,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,8.96,3,Tarjeta de Credito,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,28.22,7,Transferencia Bancaria,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,7.78,1,Efectivo,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,12.89,1,Transferencia Bancaria,17,1,2024
+4,Laptop,Electronica,950,3,Asia,26.18,9,Transferencia Bancaria,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,25.26,5,Transferencia Bancaria,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,5.58,4,Tarjeta de Credito,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,24.08,2,Tarjeta de Credito,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,13.75,1,Efectivo,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,14.49,6,PayPal,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,4,2,PayPal,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,2.42,8,PayPal,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,21.84,3,Efectivo,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,14.89,5,PayPal,27,1,2024
+14,Laptop,Electronica,850,1,Europa,13.11,7,PayPal,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,21.89,9,Transferencia Bancaria,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,22.97,3,Tarjeta de Credito,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,4.77,1,Tarjeta de Credito,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,18.31,4,Transferencia Bancaria,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,4.06,8,Transferencia Bancaria,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,22.54,6,Transferencia Bancaria,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,19.71,7,Tarjeta de Credito,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,28.7,2,PayPal,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,2.07,10,Transferencia Bancaria,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,1.71,6,Efectivo,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,8.47,2,Transferencia Bancaria,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,7.85,8,Cheque,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,7.41,3,Transferencia Bancaria,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,27.19,5,Tarjeta de Credito,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,7.49,7,Transferencia Bancaria,12,2,2024
+30,Laptop,Electronica,970,4,Asia,8.16,9,Cheque,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,22.78,3,Efectivo,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,13.49,7,PayPal,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,23.3,9,Transferencia Bancaria,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,1.96,3,Cheque,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,14.63,1,Cheque,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,1.01,4,Efectivo,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,1.88,8,Tarjeta de Credito,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,27.19,6,Transferencia Bancaria,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,4.18,7,Cheque,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,15.97,2,Efectivo,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,12.33,2,PayPal,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,10.42,5,Cheque,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,27,1,Efectivo,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,0.65,3,Tarjeta de Credito,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,19.91,1,Tarjeta de Credito,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,28.9,4,Cheque,11,2,2024
+47,Refrigerador,Electrodomestico,1250,1,Europa,16.81,10,Cheque,12,2,2024
+48,Laptop,Electronica,970,4,Asia,28.1,6,Transferencia Bancaria,13,2,2024
+49,Smartphone,Electronica,543.11,8,Sudamerica,1.57,2,Efectivo,14,2,2024
+50,"Televisor 55""",Electronica,310,6,Europa,12.56,8,Cheque,15,2,2024
+51,Aspiradora,Electrodomestico,155,7,Norteamerica,7.8,2,Transferencia Bancaria,16,2,2024
+52,Lavadora,Electrodomestico,810,2,Asia,21.92,3,Transferencia Bancaria,17,2,2024
+53,"Televisor 55""",Electronica,400,2,Norteamerica,29.44,7,Cheque,15,3,2024
+54,Smartphone,Electronica,700,5,Europa,7.7,9,Tarjeta de Credito,16,3,2024
+55,Refrigerador,Electrodomestico,1200,1,Sudamerica,19.63,3,Efectivo,17,3,2024
+56,Laptop,Electronica,950,3,Asia,5.94,1,Efectivo,18,3,2024
+57,Lavadora,Electrodomestico,543.11,1,Norteamerica,16.96,4,Tarjeta de Credito,19,3,2024
+58,"Televisor 55""",Electronica,650,4,Europa,13.92,8,Cheque,20,3,2024
+59,Aspiradora,Electrodomestico,150,10,Sudamerica,29.16,10,Efectivo,21,3,2024
+60,Smartphone,Electronica,650,6,Norteamerica,18.26,6,Desconocido,22,3,2024
+61,Laptop,Electronica,1000,2,Asia,10.49,2,Cheque,23,3,2024
+62,Microondas,Electrodomestico,120,8,Europa,3.42,8,Transferencia Bancaria,24,3,2024
+63,"Televisor 55""",Electronica,450,2,Sudamerica,4.54,2,Tarjeta de Credito,25,3,2024
+64,Lavadora,Electrodomestico,543.11,3,Asia,6.76,3,Cheque,26,3,2024
+65,Smartphone,Electronica,750,7,Norteamerica,7.53,7,PayPal,27,3,2024
+66,Microondas,Electrodomestico,543.11,9,Asia,25.52,9,Tarjeta de Credito,28,3,2024
+67,"Televisor 55""",Electronica,500,3,Norteamerica,16.84,3,Efectivo,29,3,2024
+68,Refrigerador,Electrodomestico,1250,1,Europa,15.7,1,Transferencia Bancaria,30,3,2024
+69,Laptop,Electronica,970,4,Asia,3.44,4,Desconocido,31,3,2024
+70,Smartphone,Electronica,690,8,Sudamerica,25.8,8,Efectivo,1,4,2024
+71,"Televisor 55""",Electronica,310,6,Europa,21.68,6,Tarjeta de Credito,2,4,2024
+72,Aspiradora,Electrodomestico,155,7,Norteamerica,2.03,7,Desconocido,3,4,2024
+73,Lavadora,Electrodomestico,810,2,Asia,21.24,2,Cheque,4,4,2024
+74,"Televisor 55""",Electronica,400,2,Norteamerica,16.31,2,Efectivo,5,4,2024
+75,Smartphone,Electronica,700,5,Europa,2.45,5,Transferencia Bancaria,6,4,2024
+76,Refrigerador,Electrodomestico,1200,1,Sudamerica,13.75,1,Transferencia Bancaria,7,4,2024
+77,Laptop,Electronica,950,3,Asia,14.54,3,PayPal,8,4,2024
+78,Lavadora,Electrodomestico,543.11,1,Norteamerica,4.97,1,Transferencia Bancaria,9,4,2024
+79,Lavadora,Electrodomestico,543.11,3,Asia,28.37,3,Efectivo,10,4,2024
+1,"Televisor 55""",Electronica,400,2,Norteamerica,25.5,2,Transferencia Bancaria,15,1,2024
+2,Smartphone,Electronica,700,5,Europa,20.07,5,Tarjeta de Credito,16,1,2024
+3,Refrigerador,Electrodomestico,650,1,Sudamerica,13.87,1,Transferencia Bancaria,17,1,2024
+4,Laptop,Electronica,950,3,Asia,12.35,3,Cheque,18,1,2024
+5,Lavadora,Electrodomestico,543.11,1,Norteamerica,19.53,1,Tarjeta de Credito,19,1,2024
+6,"Televisor 55""",Electronica,650,4,Europa,16.36,4,PayPal,20,1,2024
+7,Aspiradora,Electrodomestico,543.11,10,Sudamerica,1.87,10,Cheque,21,1,2024
+8,Smartphone,Electronica,650,6,Norteamerica,15.38,6,Efectivo,22,1,2024
+9,Laptop,Electronica,1000,2,Asia,14.93,2,Efectivo,23,1,2024
+10,Microondas,Electrodomestico,120,8,Europa,13.78,8,Efectivo,24,1,2024
+11,"Televisor 55""",Electronica,450,2,Sudamerica,14.93,2,Cheque,25,1,2024
+12,Lavadora,Electrodomestico,543.11,3,Asia,23.59,3,Cheque,26,1,2024
+13,Smartphone,Electronica,750,7,Norteamerica,6.04,7,Cheque,27,1,2024
+14,Laptop,Electronica,850,1,Europa,7.76,1,Tarjeta de Credito,28,1,2024
+15,Refrigerador,Electrodomestico,650,1,Sudamerica,4.94,1,Tarjeta de Credito,29,1,2024
+16,Microondas,Electrodomestico,100,9,Asia,9.91,9,Efectivo,30,1,2024
+17,"Televisor 55""",Electronica,300,5,Norteamerica,22.7,5,Transferencia Bancaria,31,1,2024
+18,Tablet,Electronica,543.11,4,Europa,15.58,4,Efectivo,1,2,2024
+19,Lavadora,Electrodomestico,750,2,Asia,6.15,2,PayPal,2,2,2024
+20,Refrigerador,Electrodomestico,543.11,1,Norteamerica,26.33,1,Tarjeta de Credito,3,2,2024
+21,Smartphone,Electronica,680,6,Sudamerica,26.39,6,Cheque,4,2,2024
+22,Laptop,Electronica,1050,2,Europa,26.12,2,Tarjeta de Credito,5,2,2024
+23,Aspiradora,Electrodomestico,160,8,Norteamerica,7.16,8,Cheque,6,2,2024
+24,"Televisor 55""",Electronica,700,3,Asia,13.54,3,PayPal,7,2,2024
+25,Tablet,Electronica,420,5,Sudamerica,29.55,5,PayPal,8,2,2024
+26,Smartphone,Electronica,780,7,Europa,23.16,7,Tarjeta de Credito,9,2,2024
+27,Microondas,Electrodomestico,543.11,9,Asia,0.82,9,Cheque,10,2,2024
+28,"Televisor 55""",Electronica,500,3,Norteamerica,1.96,3,PayPal,11,2,2024
+29,Refrigerador,Electrodomestico,650,1,Europa,13.92,1,Efectivo,12,2,2024
+30,Laptop,Electronica,970,4,Asia,27.28,4,Efectivo,13,2,2024
+31,Smartphone,Electronica,690,8,Sudamerica,16.16,8,Cheque,14,2,2024
+32,"Televisor 55""",Electronica,310,6,Europa,14.93,6,Tarjeta de Credito,15,2,2024
+33,Aspiradora,Electrodomestico,155,7,Norteamerica,3.16,7,Desconocido,16,2,2024
+34,Lavadora,Electrodomestico,543.11,2,Asia,19.7,2,Tarjeta de Credito,17,2,2024
+35,Microondas,Electrodomestico,543.11,10,Sudamerica,24.66,10,Efectivo,18,2,2024
+36,Smartphone,Electronica,680,6,Sudamerica,11.41,6,PayPal,4,2,2024
+37,Laptop,Electronica,1050,2,Europa,14.93,2,Tarjeta de Credito,5,2,2024
+38,Aspiradora,Electrodomestico,160,8,Norteamerica,14.93,8,Transferencia Bancaria,6,2,2024
+39,"Televisor 55""",Electronica,700,3,Asia,6.11,3,Cheque,7,2,2024
+40,Tablet,Electronica,420,5,Sudamerica,15.7,5,Cheque,8,2,2024
+41,Smartphone,Electronica,780,7,Europa,8.61,7,Transferencia Bancaria,9,2,2024
+42,Microondas,Electrodomestico,543.11,9,Asia,23.79,9,Efectivo,10,2,2024
+43,"Televisor 55""",Electronica,500,3,Norteamerica,17.33,3,PayPal,11,2,2024
+44,Smartphone,Electronica,780,7,Europa,19.04,7,Cheque,9,2,2024
+45,Microondas,Electrodomestico,543.11,9,Asia,23.94,9,Transferencia Bancaria,10,2,2024
+46,"Televisor 55""",Electronica,500,3,Norteamerica,11.88,3,Transferencia Bancaria,11,2,2024
